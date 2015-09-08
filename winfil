@@ -1,0 +1,4211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<BlockMap HashMethod="http://www.w3.org/2001/04/xmlenc#sha256" xmlns="http://schemas.microsoft.com/appx/2010/blockmap">
+
+
+-<File LfhSize="42" Size="106136" Name="gnsdk_fp.dll">
+
+<Block Size="36584" Hash="5hQYLCQ0imBMi6Z/pScrBE2CqBPYgJyd4AHSKvypg9s="/>
+
+<Block Size="20028" Hash="JmC0E5whF0VjNK7E5ExjM1+nhkFnJuagrk0cUOTeU/Q="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="1408776" Name="Microsoft.Media.AdaptiveStreaming.dll">
+
+<Block Size="27041" Hash="bSxaNMirszRNplsEKSJVOsbkAXAsYG+SckxSWYGeNkI="/>
+
+<Block Size="22010" Hash="27sDi5ms1SWylMWQS9t5FEG+EvtIB4YplqEe7bFDZsM="/>
+
+<Block Size="24418" Hash="6upEHf9Pdb8MbeJWMVEq0VAlRnibZmiK+3Pfjp1hLOE="/>
+
+<Block Size="31783" Hash="0Up23/oJtpMDZiH45H6zTVtf7IuhnEnWD29R0oEaWSU="/>
+
+<Block Size="29035" Hash="9ytxosJsOtcYOkITsT8S0n0mr5U+i7m31RxzzQ6Mk3g="/>
+
+<Block Size="26147" Hash="cXsTeuZi7AB/40V19UGR0j3LkG9re0MU1eqVue5fLjA="/>
+
+<Block Size="34511" Hash="K6lUz6IlYn+rori1rqQhJpPxh5NyBP+teEIZTdtMrBw="/>
+
+<Block Size="31889" Hash="Sx9c7K6jM8OGcZUi5bFGc6Yq6FKdfyy97MvC6tlPTxU="/>
+
+<Block Size="32818" Hash="RX0LOYW+mRGIPNilpU/WtDkTPuAqd+gHvdj+47dxWVg="/>
+
+<Block Size="33657" Hash="V2/6P0SOt0vNSEoS8W8Rt/jTdBpX1PBtnmxG31yno5k="/>
+
+<Block Size="26250" Hash="XW8VK9IbwIRqF8Yl/0IG/4/K8IAe7LeE6vwgcJCzb7c="/>
+
+<Block Size="24167" Hash="fSZZchAd3fTA5edKWXsTh602l6DYxuGTvRJNlB+O4gA="/>
+
+<Block Size="13495" Hash="2IcNseBcr19TRSfe4H5pXXCbF6oAL6RQfZomR0vHMYE="/>
+
+<Block Size="14314" Hash="q+v3d94D8nzNeV3yfCh4QYG3W1/h/lFOLTgnWJV4n0o="/>
+
+<Block Size="9457" Hash="EgdhN8d4gddsAgA5wVyGBeJZU2fa1ujwQJjeK94jhOM="/>
+
+<Block Size="10122" Hash="WBDiwh0xX2fJaweZwFMbAN1HtY0V3q5xNxShxhA+QHs="/>
+
+<Block Size="21161" Hash="mnyrDrRyg/VaKeMsly8oxCZZjF6B+fxkX18R3AZtp8c="/>
+
+<Block Size="26883" Hash="Ay1Qrq4tRbBVdtAziBSmGmbmaFfvn6CBMCMIoM6UuWI="/>
+
+<Block Size="5077" Hash="7+57vke1CLVMK9aNKJitMmw+GlLT3BtqKIgRj0Nm0o4="/>
+
+<Block Size="3459" Hash="HDvlpwaoHhVB1Gx7fEmXzWjnDBf+MoWyzWfPWD8OeHg="/>
+
+<Block Size="26824" Hash="CoyimJMJc3qW+zEszeIFqCTst4EAacclaYzOO+sENJQ="/>
+
+<Block Size="10400" Hash="HeUrQvxGZCxF3xrnompVaOYYBgU4Kg67Nwukovf0Eek="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="29456" Name="Microsoft.Media.AdaptiveStreaming.winmd">
+
+<Block Size="13768" Hash="1dlIB+TdspBMKijghzitJpfWsIF5lnPMhiz3KrQdF4c="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="8704" Name="MicrosoftAdvertising.winmd">
+
+<Block Size="3611" Hash="nkSJXuLDyVSdoDKvz1wcPCdU1p12l1r6UL/4AjXhiT0="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="44136" Name="Microsoft.PerfTrack.dll">
+
+<Block Size="22412" Hash="oEeD4fyCbDfcF6NWOr9vKkBwOkz2g+ab3y+F6NO0bnM="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="3584" Name="Microsoft.PerfTrack.winmd">
+
+<Block Size="1454" Hash="ioUg2TNqGJNguM4vFt0V2gy+32VGq+va3vKTOM4fz7E="/>
+
+</File>
+
+
+-<File LfhSize="41" Size="87" Name="config.json">
+
+<Block Size="61" Hash="iXRyNmk445FiBNdvYbGRdq/vyFqNQiyabIa30EuN82w="/>
+
+</File>
+
+
+-<File LfhSize="48" Size="26958" Name="Fonts\segxmvr.woff">
+
+<Block Size="26731" Hash="AopSyM9vZ0uvl7n0OrjsWlghq+5LQ65wCuRVPsRpvh0="/>
+
+</File>
+
+
+-<File LfhSize="48" Size="56762" Name="Fonts\segxsym.woff">
+
+<Block Size="55661" Hash="Mj1IelNKgJIsQtHjddcPLfY1xIlp2hJjIzhAv2WVi0Q="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="2855" Name="Images\AppBar_gradient.png">
+
+<Block Hash="l8dRMMkbojke/5UDvrUquJtNyk1W0wPi7ozKILcyjd4="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="15126" Name="Images\GenericIcons\actor_placeholder.png">
+
+<Block Hash="Ogh4iAuGOWHEJUffbGPlN1aDMho7Cv/mFDw8vVMVMtU="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="1492" Name="Images\GenericIcons\ico_74x_GenericVideo_Small.scale-100.png">
+
+<Block Hash="7sac9zb9kB46LDKAXWL/HUg7R/DdydXwrkk4QX/KDWk="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="1618" Name="Images\GenericIcons\ico_74x_GenericVideo_Medium.scale-100.png">
+
+<Block Hash="G47rEyRsoIHJSRzcXUl9V8kj7tYoCV0FSZups3ujw1s="/>
+
+</File>
+
+
+-<File LfhSize="95" Size="19623" Name="Images\GenericIcons\ico_74x_GenericVideo_LargeMovie.scale-100.png">
+
+<Block Hash="D5Fg+j7p684mQ0BGPrc/nLZZkbqIFZA5p5KBzYuTvBQ="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="2085" Name="Images\GenericIcons\ico_74x_GenericVideo_Large.scale-100.png">
+
+<Block Hash="rgvCJQyfoB20yS/4yURJRqauDtXALChp6kKNMsCtS7w="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="850" Name="Images\GenericIcons\cast_placeholder.png">
+
+<Block Hash="LIIJgvXdWEgAv/5H5WGKhI+72jx3+8BS1VgdK66NPr8="/>
+
+</File>
+
+
+-<File LfhSize="88" Size="6089" Name="Images\GenericIcons\ico_GenericVideo_L3_Hero.scale-100.png">
+
+<Block Hash="3xOzpY1JUm/Wiv8esiAaCoMl88/l3xQn8arcKIm2Jig="/>
+
+</File>
+
+
+-<File LfhSize="85" Size="3468" Name="Images\GenericIcons\ico_GenericVideo_Wide.scale-100.png">
+
+<Block Hash="htFEoDVuiNzz+5YbjCh3BCY9ULfRJkZIRaBowkf91Pg="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="3529" Name="Images\loading_image.png">
+
+<Block Hash="eOtzB8TCoOzt75yAdtKN1mSfgISuPr/n+EhMQ2CJdjE="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="10351" Name="Images\immersive_details_background_gradient.png">
+
+<Block Hash="xVPXFUOU8HiQjutGn6UHV2+SKktdtdjRlBjnA4s6nR8="/>
+
+</File>
+
+
+-<File LfhSize="87" Size="11227" Name="Images\immersive_details_viewMore_background_gradient.png">
+
+<Block Hash="6aoTAtXo/n0UUgAx3rxGKAjOtddzWpuCxr9Z8eWjJeY="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="1217" Name="Images\img_not_found.png">
+
+<Block Hash="WYjwHxwX/8EAzTHlNe4o7E/PmHLKq2NH2L4QpIy0YXY="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="17706" Name="Images\ListStripes\ListStripesDark.scale-100.png">
+
+<Block Hash="gu4oMb8s/iynS39sti6XyKE5+pa7J+MxhjW/Kh9U7f4="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="261" Name="Images\link_asset.png">
+
+<Block Hash="9hU9ymZSKUdb0HHMiuy6uaHvBJs+GP+2OIj4XjbkzjY="/>
+
+</File>
+
+
+-<File LfhSize="123" Size="3695" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoOtherRTL.scale-100_contrast-white.png">
+
+<Block Hash="HkViqsXvaHa0BVLNVz278ysn/UwgRx5k3KIA+96ootM="/>
+
+</File>
+
+
+-<File LfhSize="115" Size="3816" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_Video.scale-100_contrast-black.png">
+
+<Block Hash="dbI0O76b/qY/CnZ6YDY4w/VZpr7r3koam3GQs8TGWsI="/>
+
+</File>
+
+
+-<File LfhSize="115" Size="3853" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_Video.scale-100_contrast-white.png">
+
+<Block Hash="7nlLC3c/e/GyOtGcldv3aF9ursk/juaJ4XF8+8Iq8/Y="/>
+
+</File>
+
+
+-<File LfhSize="118" Size="3854" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoRTL.scale-100_contrast-white.png">
+
+<Block Hash="sIRSLTS/vrG4Svd/CgTRHzDTfHrtRW97ip9KYhobxsY="/>
+
+</File>
+
+
+-<File LfhSize="120" Size="3695" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoOther.scale-100_contrast-black.png">
+
+<Block Hash="LdT2sbLiTtfujbj5JPbNlMYVJ15TzX5dsr1A94VXUG0="/>
+
+</File>
+
+
+-<File LfhSize="120" Size="3700" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoOther.scale-100_contrast-white.png">
+
+<Block Hash="wXaOZHXpwhiO7cw6ylea0LkQU4OfdApFriQU+y/b3Mo="/>
+
+</File>
+
+
+-<File LfhSize="121" Size="3841" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoSquare.scale-100_contrast-white.png">
+
+<Block Hash="3KJtGWqU8uJszzrGrQNLV78qMzxeGbjUmCFb0Hyth4Q="/>
+
+</File>
+
+
+-<File LfhSize="123" Size="3690" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoOtherRTL.scale-100_contrast-black.png">
+
+<Block Hash="mKeGhDN7e6BfhDMEaHA+1BaGaluYdT1y4FQBEG16K0w="/>
+
+</File>
+
+
+-<File LfhSize="121" Size="3806" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoSquare.scale-100_contrast-black.png">
+
+<Block Hash="G6tlgJDDL/xsg0xbyYORKCCI6PgcnesRLcuEPQADWas="/>
+
+</File>
+
+
+-<File LfhSize="118" Size="3828" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoRTL.scale-100_contrast-black.png">
+
+<Block Hash="8fp3a/u2CH2C75d3duSSJYENmsn7sx7wMair4F4+PU0="/>
+
+</File>
+
+
+-<File LfhSize="124" Size="3849" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoSquareRTL.scale-100_contrast-white.png">
+
+<Block Hash="ETGddAybvQaGF7sbu7SyLiBaKF97Bw7XvSyZcVq2hto="/>
+
+</File>
+
+
+-<File LfhSize="124" Size="3823" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoSquareRTL.scale-100_contrast-black.png">
+
+<Block Hash="RxGyPqP7b2BOn9C2g3EEyKv0IO0cGT02BSPaQ2j/jcQ="/>
+
+</File>
+
+
+-<File LfhSize="109" Size="927" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoSquareRTL.scale-100.png">
+
+<Block Hash="BeCrEOKy3MPOpcDfVLayjIU5RqW5fbxk52WCnI54fnw="/>
+
+</File>
+
+
+-<File LfhSize="108" Size="801" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoOtherRTL.scale-100.png">
+
+<Block Hash="ktBYKq8xp4mUodCdfzi9yGvPx3CK0eYY6t61JYRvng8="/>
+
+</File>
+
+
+-<File LfhSize="105" Size="799" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoOther.scale-100.png">
+
+<Block Hash="lAcMQSReM74JIsSY858SsgeZby3ymVzdNGuKHVLnkhg="/>
+
+</File>
+
+
+-<File LfhSize="106" Size="937" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoSquare.scale-100.png">
+
+<Block Hash="bnbLrS2VHg2EYWOmmwBht6eOwPgYCRNdQi3Rb/C85Hc="/>
+
+</File>
+
+
+-<File LfhSize="103" Size="923" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_VideoRTL.scale-100.png">
+
+<Block Hash="sq+CxXHk6LHdKUMJq/Y31SEXEzWwq16+h4aul1jEbVA="/>
+
+</File>
+
+
+-<File LfhSize="100" Size="950" Name="Images\LoadingCardTemplateBg\LoadingCardTemplateBg_Video.scale-100.png">
+
+<Block Hash="/hx0nzg6IPbS5B2HhJZzQfOYtqi0eORQBqxMzZbV0F8="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="177782" Name="Images\NowPlaying\now_playing_mask.png">
+
+<Block Hash="j9U1SyQcopMaw6hpg24iwZ+GyVGVCOBqm19j5Odqbmc="/>
+
+<Block Hash="RUIF1dmySRU1mTX471q5AutQVdpdRe9G094+rH33838="/>
+
+<Block Hash="OKuYrRI8BZBFHimB0CfUEYuJSbKzsaA3kC6r+6GEk4k="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="3266" Name="Images\notification_retry_ring_dark.png">
+
+<Block Hash="BdtTYfD1YUtcdvlPzv59BROWraiZa73aNHiWLD/CJys="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="945" Name="Images\squareLoading.png">
+
+<Block Hash="CjC8bK1asprhXomPjtZ491hcmaqhjmwmiwopr8jra0I="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="3294" Name="Images\notification_retry_ring_light.png">
+
+<Block Hash="xMrEvkTq4OlgMo1hVHf/7z30KN2nMIvBNWLGWFm2xoA="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="1108" Name="Images\streaming_light.png">
+
+<Block Hash="xn+pgoqD8Wjru9dP6NVMZrVKaCz9OqsujHSFVpfofns="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="3068" Name="Images\notification_retry_spinner_dark.png">
+
+<Block Hash="sMayzBUMW2hJgWaClTbztUw1OV6fZzLvGTBFIBX0DmI="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="3072" Name="Images\notification_retry_spinner_light.png">
+
+<Block Hash="IzlPLAOLeKEY6V4a6qtYJ8gTuvKzxIgd+BXeb/vnt9I="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="1119" Name="Images\streaming_dark.png">
+
+<Block Hash="7A0XrvNpTyfi7Bw834yiIRW3V1/1rYtV92NmbnN85h4="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="5003" Name="Images\standard_card_square_art_overlay.png">
+
+<Block Hash="Bc2mlvp3jIXZMQDOWqtgUTx1eLstQgE6kUJ/LYmpRQo="/>
+
+</File>
+
+
+-<File LfhSize="85" Size="4605" Name="Images\ThirdParty\ico_RottenTomatoes_CertifiedFresh.png">
+
+<Block Hash="yogmFXllbyt0NGFHn5D402cvbBM1yNqvogQVJ+06FoU="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="5563" Name="Images\ThirdParty\ico_RottenTomatoes_Rotten.png">
+
+<Block Hash="y0pQem1HVNBVKa+vDKggGVH61ww+ccejtZE67/4Z4TE="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="4920" Name="Images\ThirdParty\ico_RottenTomatoes_Fresh.png">
+
+<Block Hash="HtUJ8sUn4AwM7cpqvU3zMmAQavFD9xM02/KJ4nfq0io="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="1952" Name="Images\Tiles\XBL_VIDEO_310x150_C.scale-100_contrast-black.png">
+
+<Block Hash="67iuPRZRGGmtG2Tdt15QDFLJtDyf8vp0bxdS6duagQ0="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="1693" Name="Images\Tiles\XBL_VIDEO_310x150_C.scale-80_contrast-black.png">
+
+<Block Hash="dslCXz2ChnoOOrvhulrAEojfF9lzW2E2KTdxh7G5S0M="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="1249" Name="Images\Tiles\XBL_VIDEO_50x50_A.contrast-black.png">
+
+<Block Hash="Bu7VFFjQfB+IvtUj3t4k4rkEnFWrymbLNke6MoKgkv8="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="4049" Name="Images\Tiles\XBL_VIDEO_310x310_A.scale-80_contrast-black.png">
+
+<Block Hash="YtyeAXp0q1lib39zMSTAkaIzF5H7tRkCMLG01O6HQaM="/>
+
+</File>
+
+
+-<File LfhSize="88" Size="1101" Name="Images\Tiles\XBL_VIDEO_30x30_A.scale-80_contrast-black.png">
+
+<Block Hash="q0T6E9r2S1LGOyspRrUvSyYZrQSaln7yhBK1ympOH9o="/>
+
+</File>
+
+
+-<File LfhSize="89" Size="1135" Name="Images\Tiles\XBL_VIDEO_30x30_A.scale-100_contrast-black.png">
+
+<Block Hash="iejHqKF6c5vHBijlb/rH4OnXAK0NcGdbCeQDyJ6eNLg="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="1790" Name="Images\Tiles\XBL_VIDEO_150x150_A.scale-80_contrast-black.png">
+
+<Block Hash="He+pqJSCbf2IezYSXSlK5uUMyHit/PNkuCq6lmGT5k4="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="2985" Name="Images\Tiles\XBL_VIDEO_620x300_A.scale-100_contrast-black.png">
+
+<Block Hash="KhStfg9hR6+LY7B8pMaIj4TZvN24wbyqOvZUbVWbJwY="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="1809" Name="Images\Tiles\XBL_VIDEO_150x150_A.scale-100_contrast-black.png">
+
+<Block Hash="ILeJMTX7Z5pIDcHERIQIZM8+AX2//HltnZvlW8phMvo="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="4460" Name="Images\Tiles\XBL_VIDEO_310x310_A.scale-100_contrast-black.png">
+
+<Block Hash="G7KP4WwiFSKy20E5iODFunC80n1AQYjPtgJE521Hygc="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="1895" Name="Images\Tiles\XBL_VIDEO_310x150_C.scale-100_contrast-white.png">
+
+<Block Hash="6rqg2lk947gtvwawwQiXK8HJQ9cNWAYu9PIZXj+iOUs="/>
+
+</File>
+
+
+-<File LfhSize="89" Size="3309" Name="Images\Tiles\XBL_VIDEO_70x70_A.scale-100_contrast-black.png">
+
+<Block Hash="qZ1ZUIkbxqNAbvpIL3UhvKqoIpEeO0CSD9VMALsxRSg="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="1816" Name="Images\Tiles\XBL_VIDEO_150x150_A.scale-80_contrast-white.png">
+
+<Block Hash="7UEh+XwHX9E4lnVqmJNro7ZZLXrQ0vE4nwN5n7N0RYk="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="1254" Name="Images\Tiles\XBL_VIDEO_50x50_A.contrast-white.png">
+
+<Block Hash="PP7B1NLtU29UX6qKvnK7NxQINE9yZ+xYxqpUody6FwQ="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="4002" Name="Images\Tiles\XBL_VIDEO_310x310_A.scale-80_contrast-white.png">
+
+<Block Hash="nu4AM4xkRwoqQzYUBNJANd+krnpp5k3HlKS+I/QwZw4="/>
+
+</File>
+
+
+-<File LfhSize="88" Size="1104" Name="Images\Tiles\XBL_VIDEO_30x30_A.scale-80_contrast-white.png">
+
+<Block Hash="YtkP8MKtPw4sHNZaGmIAuZsiWXV6mT9M7juCuyY47Zg="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="3646" Name="Images\Tiles\XBL_VIDEO_620x300_A.scale-100_contrast-white.png">
+
+<Block Hash="ByvrswEiqJSUEQBXI641RnPwBcFK++RBD5F0+kiydx8="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="4390" Name="Images\Tiles\XBL_VIDEO_310x310_A.scale-100_contrast-white.png">
+
+<Block Hash="h+Jl1mjL7BBMn5rRfchPAnwM9sXzS5ymZ5Q/XbhKJaM="/>
+
+</File>
+
+
+-<File LfhSize="90" Size="1657" Name="Images\Tiles\XBL_VIDEO_310x150_C.scale-80_contrast-white.png">
+
+<Block Hash="cieT/zla1vuFIZwwwesqm25iY9FYFHK4Myu6TsGmFvg="/>
+
+</File>
+
+
+-<File LfhSize="89" Size="1133" Name="Images\Tiles\XBL_VIDEO_30x30_A.scale-100_contrast-white.png">
+
+<Block Hash="NkSyc1iJp9bHYhv20LflY6/IONNTaeW5qFZR1gKCMs4="/>
+
+</File>
+
+
+-<File LfhSize="91" Size="1740" Name="Images\Tiles\XBL_VIDEO_150x150_A.scale-100_contrast-white.png">
+
+<Block Hash="9Gp7sHfKXnuO67D9Zv0jDtxXIXOV6o/GgGm+bcLqhcc="/>
+
+</File>
+
+
+-<File LfhSize="88" Size="3144" Name="Images\Tiles\XBL_VIDEO_70x70_A.scale-80_contrast-black.png">
+
+<Block Hash="6TmLw/z/3ZJVPUzQSqggltKRpJxWs+tgmtXGmGf5/8I="/>
+
+</File>
+
+
+-<File LfhSize="88" Size="3159" Name="Images\Tiles\XBL_VIDEO_70x70_A.scale-80_contrast-white.png">
+
+<Block Hash="YruvCb0XlXGy7a4kxdkeRPKGX8sMo4lhKRmysfS95jU="/>
+
+</File>
+
+
+-<File LfhSize="89" Size="3280" Name="Images\Tiles\XBL_VIDEO_70x70_A.scale-100_contrast-white.png">
+
+<Block Hash="I/hcTXRN5RqoZEtVeFhJkhffCsxyohVKBxi/6x6M7uY="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="962" Name="Images\Tiles\Video_Movie_Resume_2x2.scale-100.png">
+
+<Block Hash="xvJAwuROXwwirQHkRHlDd2a/tLN4EjgE9bwHvuP4oiw="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="14220" Name="Images\Tiles\Video_Tv_Resume_2x2.scale-100.png">
+
+<Block Hash="LZLjLfVniQn7vKzb76oTZgRZI41CsgWgQJ8vh1C41Uo="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="1166" Name="Images\Tiles\VideoIcon.targetsize-32.png">
+
+<Block Hash="yWm5jszZXbNgnuFbjZOSeYEEE36m9BdAK4hc6ol+Vfg="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="2599" Name="Images\Tiles\VideoIcon.targetsize-256.png">
+
+<Block Hash="o2jLybf4v78PKkWijwZdefS6AYJFDo7HHiP2y8zTrvc="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="1258" Name="Images\Tiles\VideoIcon.targetsize-48.png">
+
+<Block Hash="iBJn8JUc50jZS/hY0D3WStcyA25wAAvdiqd+gahzhmk="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="1037" Name="Images\Tiles\VideoIcon.targetsize-16.png">
+
+<Block Hash="OC8+OHwxgfO02PD10dJLpOCxmfSAvJ46VbmcDNUi8Y8="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="1166" Name="Images\Tiles\VideoIcon.png">
+
+<Block Hash="yWm5jszZXbNgnuFbjZOSeYEEE36m9BdAK4hc6ol+Vfg="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="3144" Name="Images\Tiles\XBL_VIDEO_70x70_A.scale-80.png">
+
+<Block Hash="6TmLw/z/3ZJVPUzQSqggltKRpJxWs+tgmtXGmGf5/8I="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="3309" Name="Images\Tiles\XBL_VIDEO_70x70_A.scale-100.png">
+
+<Block Hash="qZ1ZUIkbxqNAbvpIL3UhvKqoIpEeO0CSD9VMALsxRSg="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="1135" Name="Images\Tiles\XBL_VIDEO_30x30_A.scale-100.png">
+
+<Block Hash="Tpp/L1yyWewBXtql6YgUor9ZfRDlLz48PEZ/jwsX6rQ="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="3633" Name="Images\Tiles\XBL_VIDEO_150x150_A.scale-80.png">
+
+<Block Hash="NvTKRI0VvNQ+h8OjyIaa6nVU+sB11d6n64+gDU82EtE="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="2985" Name="Images\Tiles\XBL_VIDEO_620x300_A.scale-100.png">
+
+<Block Hash="KhStfg9hR6+LY7B8pMaIj4TZvN24wbyqOvZUbVWbJwY="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="1101" Name="Images\Tiles\XBL_VIDEO_30x30_A.scale-80.png">
+
+<Block Hash="uurjhqAGOvaDCyPnrumfU+dmc6KHzwkMDkKLWRfv6Ys="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="1249" Name="Images\Tiles\XBL_VIDEO_50x50_A.png">
+
+<Block Hash="StT/y6YU839JFqZaJN7519UKgoVKYPxOlLBoXN1bb5w="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="4049" Name="Images\Tiles\XBL_VIDEO_310x310_A.scale-80.png">
+
+<Block Hash="YtyeAXp0q1lib39zMSTAkaIzF5H7tRkCMLG01O6HQaM="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="4460" Name="Images\Tiles\XBL_VIDEO_310x310_A.scale-100.png">
+
+<Block Hash="G7KP4WwiFSKy20E5iODFunC80n1AQYjPtgJE521Hygc="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="1693" Name="Images\Tiles\XBL_VIDEO_310x150_C.scale-80.png">
+
+<Block Hash="csE4JBOuTo5YbwSzY6aad/4pBkE8+hxv/a7xGqqtnbE="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="1037" Name="Images\Tiles\XBL_VIDEO_30x30_A.targetsize-16.png">
+
+<Block Hash="OC8+OHwxgfO02PD10dJLpOCxmfSAvJ46VbmcDNUi8Y8="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="1166" Name="Images\Tiles\XBL_VIDEO_30x30_A.targetsize-32.png">
+
+<Block Hash="yWm5jszZXbNgnuFbjZOSeYEEE36m9BdAK4hc6ol+Vfg="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="1258" Name="Images\Tiles\XBL_VIDEO_30x30_A.targetsize-48.png">
+
+<Block Hash="iBJn8JUc50jZS/hY0D3WStcyA25wAAvdiqd+gahzhmk="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="1809" Name="Images\Tiles\XBL_VIDEO_150x150_A.scale-100.png">
+
+<Block Hash="IZcgXK6rO73235+bJASiPbj+ycCAJOqXbtPSJZsZzak="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="1952" Name="Images\Tiles\XBL_VIDEO_310x150_C.scale-100.png">
+
+<Block Hash="Dyhr7LDOVSM0/LsUr1W4I2cx80wr+teEcLqLHN/Rdao="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="181" Name="Images\transparent.png">
+
+<Block Hash="AWgy+lnT5AGxMqaylPlctfSPbh8LGDUz7tVVUKzbDCY="/>
+
+</File>
+
+
+-<File LfhSize="86" Size="3530" Name="Images\TransportControls\leaf_default.contrast-black.png">
+
+<Block Hash="VHQEzh0x9K+kHM7d8oFI6TjOOyWL2emPpgKRQwR0Nps="/>
+
+</File>
+
+
+-<File LfhSize="86" Size="3580" Name="Images\TransportControls\leaf_default.contrast-white.png">
+
+<Block Hash="1l6MLQh8fpimN2Sl5aFAKOwE9b4+GMGpv6QuW6GHo2k="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="3530" Name="Images\TransportControls\leaf_default.png">
+
+<Block Hash="VHQEzh0x9K+kHM7d8oFI6TjOOyWL2emPpgKRQwR0Nps="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="3204" Name="Images\TransportControls\leaf_touch.contrast-black.png">
+
+<Block Hash="VD0I048aKUW81VilEecA3RH/A5L2ig5sFFWd8EAw7Ew="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="3297" Name="Images\TransportControls\leaf_touch.contrast-white.png">
+
+<Block Hash="tUH6AzL1mMlZaKzQPLKlpim2J8fgJu+gP7sH1uYdgX4="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="3204" Name="Images\TransportControls\leaf_touch.png">
+
+<Block Hash="VD0I048aKUW81VilEecA3RH/A5L2ig5sFFWd8EAw7Ew="/>
+
+</File>
+
+
+-<File LfhSize="87" Size="967" Name="Images\VideoRatings\video_poland_ratings_12.scale-100.png">
+
+<Block Hash="Cpjqo6SqQo7cXwexdA7djoznJjmNio+5OOXtRM8gAqM="/>
+
+</File>
+
+
+-<File LfhSize="87" Size="795" Name="Images\VideoRatings\video_poland_ratings_18.scale-100.png">
+
+<Block Hash="z2UY4m8sWJ5tXqoKIhwwdkFgy6W2Qt57xcq7ylEEqBc="/>
+
+</File>
+
+
+-<File LfhSize="86" Size="633" Name="Images\VideoRatings\video_poland_ratings_7.scale-100.png">
+
+<Block Hash="TQ+LDcz0BM/0OWa3xibthYPsnx23KPkTjRIlzYkbw0E="/>
+
+</File>
+
+
+-<File LfhSize="99" Size="896" Name="Images\VideoRatings\video_poland_ratings_no_restriction.scale-100.png">
+
+<Block Hash="1XcBlgm9H1Fz1JRVi1s85p1BICUok81Cwuvvc1KIdBQ="/>
+
+</File>
+
+
+-<File LfhSize="98" Size="5068" Name="Images\WebDialogResize\contrast-black\RotateResizeIcon.scale-100.png">
+
+<Block Hash="SeQVmwQvsvr62Ua2gtE4lwUcHMh5NSklew5PkTmK63Q="/>
+
+</File>
+
+
+-<File LfhSize="98" Size="5095" Name="Images\WebDialogResize\contrast-white\RotateResizeIcon.scale-100.png">
+
+<Block Hash="gh9A5k5U9gSYuOH235jHnSHTGIK7erFMnQDWYkN0pMc="/>
+
+</File>
+
+
+-<File LfhSize="87" Size="1046" Name="Images\VideoRatings\video_poland_ratings_16.scale-100.png">
+
+<Block Hash="mMO0y6WudT+EqLWB9V5vjifmx6AvjyghhE1WICsMQ3Y="/>
+
+</File>
+
+
+-<File LfhSize="83" Size="4914" Name="Images\WebDialogResize\RotateResizeIcon.scale-100.png">
+
+<Block Hash="Gt/eaQWF1Hb8+ORU2wk7V2HYZhLClKmQw6X/xll+Hz8="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="12358" Name="Images\x8_300x250_ad_error.png">
+
+<Block Hash="R/gEgL1v5t3wow+zTFD2S+9uhti14hDJ8nyEbw0wMt8="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="12597" Name="Images\x8_300x600_ad_error.png">
+
+<Block Hash="7bcXsyg25BPD8zS+n7nhzVPGt63M329v3eZCQd8YLqY="/>
+
+</File>
+
+
+-<File LfhSize="42" Size="142" Name="Version.json">
+
+<Block Size="124" Hash="sb8EPL1Z9eUCpTuuWrmYGVTjiP548tfW18u8ryC2ITM="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="405" Name="Framework\IdVision.js">
+
+<Block Size="184" Hash="OU8a6ww2eKTL4Sp7frlcsOcCxt9GfzIab2SbdBxBXHI="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="613376" Name="Microsoft.Entertainment.winmd">
+
+<Block Size="20105" Hash="df6R6ggUFTKNAAzuOe8Urt+n0XVETqWhT0OkScGWWRE="/>
+
+<Block Size="18669" Hash="8cJwoxd+7hksASiqw8e5/Dykp402UXmx+Rs57+TIh0c="/>
+
+<Block Size="11363" Hash="OKYii6vl+3R7ZC4udKML/iLc2leCuNKlCVERVSxbqec="/>
+
+<Block Size="7828" Hash="Ykxc1yDRiJ4H6GLJ2ex7nTmazygRt6M64Fj/28JJv8M="/>
+
+<Block Size="22562" Hash="37j/5o/2OmW0F41CaPrh7hgj9ZuSf+3ZXlUvAfsu9uM="/>
+
+<Block Size="30150" Hash="BUbnM+zUU6zy34vtutZU2tP1XIb+dhrJIXh5Fizp9fI="/>
+
+<Block Size="23808" Hash="4XmeNsbs3rq7glb/Fjs3/Zi5h8fFX9Q2P8fjYACVlSo="/>
+
+<Block Size="11925" Hash="sn75/iMD9vCd5TyDyhLh8yF1hHjH4z+b8JTKsfgzimw="/>
+
+<Block Size="11121" Hash="B8IVu2Q8ummKMz0g0OA1nRdbhGYxoeRApJ1wSqzCJ6M="/>
+
+<Block Size="11027" Hash="8HZUf/UHLUawtjuLQpK3bMuLG3/K+C/vR7Vm8+2JS0w="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="31409" Name="MSAdvertisingJS\ads\ormma.js">
+
+<Block Size="5511" Hash="oV/cCIgWxDpYT21ENEai55e7B/oWGPBfoopJGncSI6A="/>
+
+</File>
+
+
+-<File LfhSize="62" Size="8149" Name="MSAdvertisingJS\ads\bootstrap.js">
+
+<Block Size="1986" Hash="nmbMG6phVHZgbMV3T3cR7W9Eqd/OAwmGwZNKE4oKxZw="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="99528" Name="MSAdvertisingJS\ads\ad.js">
+
+<Block Size="9563" Hash="JnSuz8y6yTnQbJQ3LLpFCPivKm9Maf4OxFKdDqL9yQw="/>
+
+<Block Size="4708" Hash="TpbluTCvY7IRWBdW6xSzljp5T1yQWax13SKnjoVnjDs="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="10840" Name="MSAdvertisingJS\ads\VASTAd.js">
+
+<Block Size="2079" Hash="1DJaCk0CZ1Vf7v9s9L3EO2vQ4pFwtuCzWyy0j4naseg="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="1255" Name="MSAdvertisingJS\ads\bootstrap.html">
+
+<Block Size="537" Hash="qnXKVm+yySSp9A+j6Re+I0mE6lbQegIkAAh8anWRHVQ="/>
+
+</File>
+
+
+-<File LfhSize="62" Size="11390" Name="animations\HubStripAnimations.js">
+
+<Block Size="1662" Hash="SL1HdE23dVRLXVnNDCr0QIc1o3fnsIfQYGFdd3NGRCc="/>
+
+</File>
+
+
+-<File LfhSize="42" Size="735" Name="UpdateApp.js">
+
+<Block Size="366" Hash="okBoY5TgHxxc08gWQBHKXp3MxJSRWSzXw7jC/aAn3/E="/>
+
+</File>
+
+
+-<File LfhSize="44" Size="1287" Name="msapp-error.js">
+
+<Block Size="576" Hash="VwBG/wkKjchQoYrcq/APGw8FIpvy80r6ysqVqRgXSc4="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="2514" Name="animations\SocialAnimations.js">
+
+<Block Size="590" Hash="Y1gbB5J8WDPjetVLsIncMHZIFQhmG8FGe1YY85ludBI="/>
+
+</File>
+
+
+-<File LfhSize="37" Size="80209" Name="main.js">
+
+<Block Size="9233" Hash="hiJ3o8kRQ2v8B/E7Ar3Pkmc3IhthCZ9RDB0jxGOfaR0="/>
+
+<Block Size="2680" Hash="1FFxcO89RDI/7z5YgRG52PXnAM2B+Ysf8K/KZ+uh5fI="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="4894" Name="Framework\launchAppAction.js">
+
+<Block Size="1130" Hash="dgJbfImhM/2c5qz4slVny8P/i7xYsYEA3CE/1e5igIc="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="1691" Name="Framework\data\xboxLive.js">
+
+<Block Size="633" Hash="+Kh6EVZ0FYrtdpsF6dZr6NDhosIwgmhQUb4xHsb+Jas="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="21376" Name="Framework\IAService.js">
+
+<Block Size="3332" Hash="uSwDrV+5zZm4w40Dkjl/ha/bk7xF1+DlSsPiiJfWjlQ="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="708" Name="Framework\data\xhr.js">
+
+<Block Size="355" Hash="ESFkpjuco7LH1fzKzyFjCgMEvLkFfVaIF1XgVoV/3Ik="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="3645" Name="Framework\DashboardRefresherService.js">
+
+<Block Size="779" Hash="OntPyzCHlSO0n+4p5DHPtnPvUKs2MMeSGd23IlcM7aI="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="39192" Name="Framework\fileActivationHandler.js">
+
+<Block Size="5947" Hash="hfzQ2ffuCd2Kg5rV8Ya9bKrFgG9QnRuIRhE0mADbt4g="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="3925" Name="Framework\featureEnablement.js">
+
+<Block Size="938" Hash="2HCdmb6yNimvJcXQ04mu/+qCUuKVbUll3dGiouZAk1k="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="54061" Name="Framework\navigation.js">
+
+<Block Size="7628" Hash="kQNmDO2tNh84fLqCu+Zuh/O4t7D2oUrzYuFEcqAolIQ="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="2463" Name="Framework\ProgressNotificationService.js">
+
+<Block Size="701" Hash="26gzf6OTCCY1EVvh0SqGYO8VmTMpos59MWAJNTMtx6k="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="1148" Name="Framework\shiftDashboardAction.js">
+
+<Block Size="450" Hash="neDbxLtaI6kwRVwgGw6ZcayIIHJP0V1RTFptR/qfsqM="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="8283" Name="Components\shell\GalleryHubStrip.js">
+
+<Block Size="1637" Hash="rnCBcuIOaij44bw6g1T26a5BtTmoom46nmHXgZxr39w="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="6081" Name="Components\shell\FrontHubStrip.js">
+
+<Block Size="1370" Hash="daRhdZBDP+exCM9c5GLHfDmYVMOkXrNggaWAF1gj59o="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="883" Name="Components\shell\PrimaryNavigationButton.js">
+
+<Block Size="399" Hash="kqVud0U6EDbaOn7JdJItiSnu3H90ncTYAAvsx91H9gc="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="98295" Name="Components\shell\DeepLinkActions.js">
+
+<Block Size="8437" Hash="H//Il3YYHDQRZvGT+gBgxiAfSDEcHm87uiZF/l1Q+As="/>
+
+<Block Size="4653" Hash="TkxleMyPfMo0a7QsB+TVLRocwmDIEJ3FOmzpkjGmHOA="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="7849" Name="Components\shell\BackButtonService.js">
+
+<Block Size="1311" Hash="tjBmvNseCSrqlme6uZ0bQ/ym2VxdjTXYZvt2RIcreWM="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="19410" Name="Components\shell\AdControl.js">
+
+<Block Size="3326" Hash="LnxBk34o/XyufGxp0zc9V3RtT8czbqG+Hpu/3j3NvTo="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="5947" Name="Components\shell\ShellKeyboardShortcuts.js">
+
+<Block Size="842" Hash="NuN3bnaR+OhCxSxsurzkJVmr5O/fuFJ2BIMNq8FJn94="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="1328" Name="Components\Video\VideoSharedTemplatesControls.js">
+
+<Block Size="371" Hash="wHgKNfFoPLUnJSVj2yi6ktmfjHNnfbBdqtguedPmFbw="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="8261" Name="Framework\searchaction.js">
+
+<Block Size="1384" Hash="TAPV7ZaGqM0zHKfvrAnCLNhA74rek7ms+4MqlxMVnnU="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="26424" Name="Components\shell\SnappedMode.js">
+
+<Block Size="3761" Hash="ertM09RKUfM4apfcyR9X0JADsntNjQNGXtTsMOIynnY="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="26275" Name="Components\Marketplace.js">
+
+<Block Size="4019" Hash="9B7xJhXTO5lu6cdaQHGJJrPFim+GQzzRJTQ/58FX5tk="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="49646" Name="Components\Music\MusicCollection.js">
+
+<Block Size="7248" Hash="InMlWCIiqiT6LLnOyW/e0Eid4Svjx9gpqG1+LvOUlKo="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="2392" Name="Components\Accounts\AcceptTermsOfService.js">
+
+<Block Size="812" Hash="t7DL+F08QC+tCyS9aElCuypmvvk8FFlzD4mzD0b92vU="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="41569" Name="Components\Music\MusicPages.js">
+
+<Block Size="6122" Hash="qLrsVnEIFN9o6badf/SnPjacCgBOPdecb/MIvhmH6tw="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="2457" Name="Components\Video\TvSeriesHeaderControl.js">
+
+<Block Size="775" Hash="b2J2fDc8+hktA0i/0AS+SiUrM7GISYdxUfAPzbrqvns="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="239" Name="Components\Playback\IndivWorker.js">
+
+<Block Size="169" Hash="egWWfR9MT0Gk0czdSSQWZITDPvShO6Iuzqb9Nm6yi/4="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="1121" Name="Components\Music\MusicSharedTemplatesControls.js">
+
+<Block Size="295" Hash="4pAJH51Oa5IiU+lpNB9lcxPL0zPMUxkRI1A+Ktcvs0I="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="4715" Name="controls\ArcProgress.js">
+
+<Block Size="1231" Hash="JHgOC2NJopnNcEKhxLtQd+gmpuua8bfcajExNbyt88c="/>
+
+</File>
+
+
+-<File LfhSize="81" Size="478" Name="Components\Immersive\Shared\BaseImmersiveSummary.js">
+
+<Block Size="295" Hash="xgULvDPJ1DV7wnRC0LeqSTrH4a6liENm/Zpeyv7iCPo="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="35399" Name="controls\Dashboard.js">
+
+<Block Size="5837" Hash="ejqDCggnl9hDtIqxcM4M9OJCWvDJQRHuDsw2l0Iput8="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="5395" Name="Components\Playback\Playlist\NewPlaylistOverlay.js">
+
+<Block Size="1374" Hash="2hSOqpLM9CBt4s4J6eKBpCa9eF0Wrg1JkptiIG4C+hc="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="4387" Name="Components\Immersive\Shared\MoreGalleryControl.js">
+
+<Block Size="1072" Hash="oHDu4Ge6N/ShRb0cEPSk7ZfhlIQ8OO0J6il0Ljionpg="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="3140" Name="Components\Immersive\Shared\RelatedGridItems.js">
+
+<Block Size="852" Hash="Z+mA/C4lisw0wiVSAAyv0nTbDLNQzImAiH6pxpynK9Q="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="29441" Name="Components\Immersive\Immersive.js">
+
+<Block Size="4798" Hash="f6EqdvnWTdG7MIYjqknteME4SNeGzEWoeZk8+tmo8mY="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="9517" Name="Components\Immersive\Shared\RelatedItems.js">
+
+<Block Size="1899" Hash="2xoM1ske8kwV7zh85pH0AybBDLme1oaH1OAluA8Codk="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="5687" Name="Components\ImmersiveDetails\SnappedMovieDetails.js">
+
+<Block Size="1361" Hash="HWueMd2PTQxbtgOEv//8JHxc10qkYQmhcKtPMJOPbHU="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="6286" Name="Components\ImmersiveDetails\SnappedDetails.js">
+
+<Block Size="1353" Hash="u+pxABGi6+r5WoGjI5OHOgi5RcTUn2ztOfesD9HM11c="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="27634" Name="Components\InlineDetails\BaseInlineDetails.js">
+
+<Block Size="4732" Hash="ehOg2zm+x50R75CrijINCw1kRlpQCELvF6hspytuviw="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="14285" Name="Components\Search\SearchView.js">
+
+<Block Size="2258" Hash="JEAv/rGGwm1XimJPJr7JK+sF2RyTCtwAe3SXdw5u6B8="/>
+
+</File>
+
+
+-<File LfhSize="81" Size="25206" Name="Components\InlineDetails\MusicAlbumInlineDetails.js">
+
+<Block Size="4624" Hash="V+1Cjewsvx5AFpDtEpXsp929yxnu5FbvP6DxxIykBP0="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="44153" Name="Components\InlineDetails\TvSeriesInlineDetails.js">
+
+<Block Size="6544" Hash="21VGvXpAzXahmrr4y15KeOvrXYmlMRliwBc85rSESpI="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="32169" Name="Components\InlineDetails\MusicArtistInlineDetails.js">
+
+<Block Size="5381" Hash="q9sDMaY5ctodJMGgPex5DPl8IT4JTQALVB7QfRdfVrM="/>
+
+</File>
+
+
+-<File LfhSize="89" Size="1828" Name="Components\Immersive\Shared\BaseImmersiveOverviewSummary.js">
+
+<Block Size="558" Hash="DsysrZdkrC/AS0JKdBkxbbdJFaRZz+KzivS/EkTc6tE="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="80699" Name="Components\Settings\Settings.js">
+
+<Block Size="9253" Hash="h8cUMRQjllvy0z39Sk5ak3KNsmz/LJmkgoG7wo3oevI="/>
+
+<Block Size="2652" Hash="Y0EZwRXsGVXrt4hrLIFDNc9YE5lGurloqar9Qaq2WaI="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="2328" Name="Components\InlineDetails\TvEpisodeInlineDetails.js">
+
+<Block Size="693" Hash="tHbOKZbacIvy3MMC60CHiegieoDYmFWidGhEfK4wTj8="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="28182" Name="Components\InlineDetails\MusicPlaylistInlineDetails.js">
+
+<Block Size="5088" Hash="rnGCswG4/5sNyyvYEdi+EGKeqLwpy/4dUPup/254ywU="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="1684" Name="Components\ImmersiveDetails\InformationArchitecture.js">
+
+<Block Size="623" Hash="vkKqt2tiMsoNyZufLqCIVxTAfBvhzRcI7iSoyBZcyX8="/>
+
+</File>
+
+
+-<File LfhSize="50" Size="30042" Name="controls\HubStrip.js">
+
+<Block Size="5113" Hash="derygl2ve4uILvneLHp7c4ej8ihr2epunrhLYmrkJ70="/>
+
+</File>
+
+
+-<File LfhSize="45" Size="24432" Name="controls\Hub.js">
+
+<Block Size="2893" Hash="IjFwaDb5pAyA6zih0gyppstLEBarJUrvLIMwszDOXJ0="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="646" Name="controls\GalleryThumbnail.js">
+
+<Block Size="336" Hash="kykLSzlSKI0ZBKzIWkQSdu9F7jR1dRuhWOuN0CiNz1E="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="6108" Name="controls\ToggleModifier.js">
+
+<Block Size="1382" Hash="+Kz1nvIKTrKlIQM5Uyt58AR2IXyXl4dv9chLrLsWqVQ="/>
+
+</File>
+
+
+-<File LfhSize="48" Size="344" Name="controls\Flyout.js">
+
+<Block Size="246" Hash="0kdWX8VyfHpSgpLGXoFW6RVgI607HMj3U1ex8y0ILck="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="34327" Name="controls\ImmersiveLayout.js">
+
+<Block Size="5639" Hash="XC/qAaaJfZYjwydRrBGzDuhiiTzlflO8jKXbNVkId4o="/>
+
+</File>
+
+
+-<File LfhSize="50" Size="6915" Name="controls\FlipView.js">
+
+<Block Size="1529" Hash="cX+pBUBtBlea1QRvL2TWMEND5KBTFBU+d6M+HPmr9mQ="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="43223" Name="controls\LibraryFeaturedContent.js">
+
+<Block Size="6047" Hash="7vQw3Rvr5eocZ/kY9NJ/ONAfQXwLjWhAACQIO0nDDcU="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="39118" Name="controls\WebHostMessage.js">
+
+<Block Size="2088" Hash="D2CIOd6pQbhjvOB5cgNB2OLcFuG4S4DHlyRJGMNN3Us="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="2676" Name="controls\LoadingControl.js">
+
+<Block Size="717" Hash="+nw9t0FL+sULmlvXm9FbgQlD8qMdAmxivnOeD2EF67E="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="24883" Name="controls\FeaturedContent.js">
+
+<Block Size="3666" Hash="4GN2VCWpCFOurPDmfuX9IB5YnUIkbe2ZHaaJcc+3oSc="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="10302" Name="controls\MediaImageCollage.js">
+
+<Block Size="1808" Hash="Xrmds79i1ajVZz2WUO9JnRErmxNtdZToizQ5zE2RbNU="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="6230" Name="controls\MediaItemThumbnail.js">
+
+<Block Size="1259" Hash="SrEPSi7vcJHXhWD4/qHdU1Knew41PZswa0tGHivICTo="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="12111" Name="controls\FailedPanel.js">
+
+<Block Size="1807" Hash="KVDqsWQkFuPipbEV5gPyhmq+jSFvnrwXvCfH++zWld0="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="429" Name="controls\MessageBox.js">
+
+<Block Size="280" Hash="5yCvQ/OnAxmO04k0kUNuFhVBZjPp+mp8EMmKfmQunng="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="16108" Name="controls\thumbnailButton.js">
+
+<Block Size="2586" Hash="yFRbzoA3csvXMc3lTt8++nHKArIFKwNWGnKDLRWt2ug="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="551" Name="controls\MessageLinkBox.js">
+
+<Block Size="341" Hash="cGEskmfTOmCqAkPUtebSq0j/eu2UYUd+hr6tBd0fa3g="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="38643" Name="controls\AppBar\BottomAppBar.js">
+
+<Block Size="5917" Hash="pBh8ruTWlegqcWsDvOuAMlCl5ON9F0+G99qwPDbp3Uw="/>
+
+</File>
+
+
+-<File LfhSize="49" Size="18754" Name="controls\EditBox.js">
+
+<Block Size="3321" Hash="1Cho15A6xTaPfhDq23IA+X00inO4Mnm729n2VaaCmPE="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="2945" Name="controls\templateSelector.js">
+
+<Block Size="762" Hash="Gz0I07yD7Eqb3OqHw1N9XiQuy8QEPrYP0U1pccsKKic="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="7669" Name="controls\Music\ArtistImageCollage.js">
+
+<Block Size="1572" Hash="68jpLOhwfq2PZYb8F//NctDBe4i3vQ5xZE+lGUA5tfo="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="13977" Name="controls\Music\PlaylistImageCollage.js">
+
+<Block Size="2432" Hash="dInE3iOYcyXVxTPgpn0E8s0zlAr2SVgQrwuvNC4hVYg="/>
+
+</File>
+
+
+-<File LfhSize="49" Size="32378" Name="controls\WebHost.js">
+
+<Block Size="5406" Hash="Wv+BVu6NXsCQDmVOtSfuEb60bEr0pVmQK1xXAF89yCA="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="2419" Name="controls\AppBar\BottomProgressBar.js">
+
+<Block Size="738" Hash="q+ot2Q51XWtYsxortoaewd5sLD5FxfiiGpIXiHe7RnY="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="4512" Name="controls\WebHostDialog.js">
+
+<Block Size="1212" Hash="0vYPepl5hJ/yMTyCRWTKLAeF6ebaz3jkUKTaMUpbo2k="/>
+
+</File>
+
+
+-<File LfhSize="62" Size="21941" Name="controls\AppBar\RemoveOverlay.js">
+
+<Block Size="3729" Hash="PQ/cbVJjvWb5QIuw6K6/HWLTZufm+WSnNzeg8SFsgTY="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="39180" Name="controls\ImageCollage.js">
+
+<Block Size="6016" Hash="jUeAxzgHfomZC7i5RUrwgiliFWeBzb33SUD9AqB+2ks="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="41988" Name="controls\NowPlaying\MusicVisualization.js">
+
+<Block Size="5916" Hash="ibdTL1uv1LEI1QkNCpK8nPrA6KozsYiDhSXk1g3lZkI="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="30576" Name="controls\NowPlaying\NowPlaying.js">
+
+<Block Size="4012" Hash="kR0geIMjkmnXe2wevMy3J5tPuxcGJ9QakxCn3wJUqE8="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="25713" Name="controls\NowPlaying\HomeNowPlayingTile.js">
+
+<Block Size="3715" Hash="Tjqywoswgp9hUW2hk+xzU1YYjI2lZryRa2mXn34jKO4="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="9560" Name="controls\NowPlaying\NowPlayingMetadata.js">
+
+<Block Size="1485" Hash="Aig4vZdVN0ZG6O6an9YjlRNlVlIEoTkBnk87LiFCx0w="/>
+
+</File>
+
+
+-<File LfhSize="49" Size="15343" Name="controls\VideoAd.js">
+
+<Block Size="2892" Hash="+4zNDWhNcxJ4p4tOuWx2ClhSySi6ANYdQ6lGZDO93EM="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="58362" Name="ViewModels\Search\SearchViewModel.js">
+
+<Block Size="5793" Hash="A4NWpKz2+GBxtSVd355/6UrFNp+6J967rAkworMpMWA="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="9744" Name="controls\NowPlaying\NowPlayingPlaylist.js">
+
+<Block Size="1995" Hash="ZB3v8GesWH+4u4CfuP+uDw4HLpTeoiCRmSLh5uHXrK8="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="34467" Name="controls\Video\VideoNowPlayingOverlays.js">
+
+<Block Size="4711" Hash="G8i3k9fxyGKArJheYWlLq4KCp/juqIhDvkaxor7oTZo="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="3278" Name="controls\NowPlaying\NowPlayingTransportControls.js">
+
+<Block Size="703" Hash="CA1fzrjQxZflZvK0sJrUzP2P0JvnvOy4PLtJrnhue+A="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="4779" Name="Components\Video\VideoFeatures.js">
+
+<Block Size="962" Hash="XLm4apLTPkWEIujIw8fYc1MIQLxPNtitkH7IwEfwN8U="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="16789" Name="controls\NowPlaying\SnappedNowPlaying.js">
+
+<Block Size="2937" Hash="MulGSv/HNALTB/9kU4XUL5p9D/XxF5W6fWvqpwBP/YU="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="24585" Name="ViewModels\Search\SearchContractViewModel.js">
+
+<Block Size="3755" Hash="QU/hLE7kOCDiDHURI4pLs/RWbVZSZGG2edPLK1HNFDo="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="377" Name="controls\NowPlaying\SnappedNowPlayingMetadata.js">
+
+<Block Size="228" Hash="qBlBUfnRF4tc1uEJddz6OGmLIBOAZpIXxbS3Azdt+P4="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="584" Name="controls\NowPlaying\SnappedNowPlayingPlaylist.js">
+
+<Block Size="268" Hash="tAMWtdj/pvu8LtghDcnz8LuTixDJ02415w6rULnvafc="/>
+
+</File>
+
+
+-<File LfhSize="86" Size="432" Name="controls\NowPlaying\SnappedNowPlayingPlaylistFlipView.js">
+
+<Block Size="242" Hash="HsNvBki1oVY/HkKvqDWJsi0TBl1MEYm7LejEWP8EQnQ="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="25322" Name="ViewModels\Search\NewSearchViewModel.js">
+
+<Block Size="3634" Hash="btkpjbFUmGuGcwzVHdZiEHTLFhuMEj9y4UY05KcbDmI="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="10255" Name="controls\Video\VideoDownloadItem.js">
+
+<Block Size="2121" Hash="eY3bLl6CqmuhMQd7jOz8/ZnuKD8AK4jI6/m8F5RbV1A="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="10255" Name="controls\Video\TvEpisodeDownloadStatus.js">
+
+<Block Size="2073" Hash="/5MjQKcM27H1CsuJBMagM0ojORvDxf330IF6Q4OLgeU="/>
+
+</File>
+
+
+-<File LfhSize="62" Size="1551" Name="controls\Video\SeasonModifier.js">
+
+<Block Size="598" Hash="kY9630H7cpbT6EVIPIU+m3oSkp4b0GwRhgfQJsIccZ0="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="9143" Name="ViewModels\Music\MusicHubCollectionPanel.js">
+
+<Block Size="1886" Hash="8NtxZYp+4SlEnPLFp7VB/CMTSzK0nHz0OiL3y3FErkk="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="3427" Name="controls\Video\RentalOptionsDialog.js">
+
+<Block Size="975" Hash="CDkCiqd913z5HjRD8rdv6bV+2KhHQQ3CWDbEBmfbu8I="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="2228" Name="ViewModels\Immersive\ImmersiveViewModels.js">
+
+<Block Size="711" Hash="bkW76h7UhELWMY3DbzVrSIpm9BxHCNuHhpyrRW41Vfo="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="29608" Name="ViewModels\Home\SpotlightViewModel.js">
+
+<Block Size="4703" Hash="GfNPbe2RbXgTODlOv/Mhn5StIOZCQcLwu1c67Ljs+rM="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="31343" Name="ViewModels\Home\FeaturedViewModel.js">
+
+<Block Size="4803" Hash="izmX20+dPQMzX/SFAdBJKMvVnDpLoJ5UGe4qcWhDtUQ="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="3583" Name="controls\TransportControls\VideoScrub.js">
+
+<Block Size="901" Hash="Yn/UxzeLQAMnYjYDn6YnmLEbyMweIOShcoEutzQNiJ8="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="8670" Name="Components\Playback\VideoScrubber.js">
+
+<Block Size="1791" Hash="AWGeXpxIn0kHD1xf37BRNmLD0IsH3pZySHceZ/PC3YI="/>
+
+</File>
+
+
+-<File LfhSize="45" Size="275" Name="LiveIdChange.js">
+
+<Block Size="193" Hash="DaTPk7P2OeMpOghOqKhAAasvZ7EPQ2ulOBIZRv8RUc0="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="489" Name="ViewModels\Command.js">
+
+<Block Size="270" Hash="qgkscATXCbduqWPT1Ewm87yzvNCXiV3iHENmFty+uxM="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="11489" Name="Components\Immersive\Video\MovieOverview.js">
+
+<Block Size="2356" Hash="lWnE1P2unoSbLQTdsOO/5cXLt//M9OX7MeR8eDHmWNc="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="35687" Name="controls\TransportControls\SeekBar.js">
+
+<Block Size="4261" Hash="5uyvwhFEV49mwGRQKemo2FhrxSTyhEK7pNI9VTMHJoU="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="1831" Name="controls\TransportControls\TimelineEvent.js">
+
+<Block Size="634" Hash="H+F72Dw5QBP+JDiNarEaxKFFj0paQf7LgFzGKDa2Slc="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="5231" Name="Components\Immersive\Video\VideoHero.js">
+
+<Block Size="1333" Hash="axVK4spJLGnJsnX1fnxrFFLMbY5tbeu6oF0bcEHhtuA="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="14391" Name="Components\Immersive\Video\TVHero.js">
+
+<Block Size="2704" Hash="13iK0juVWZVk1+kKudOjjrQXnamopsBc1UdBf9VBGE8="/>
+
+</File>
+
+
+-<File LfhSize="43" Size="1541" Name="WarmupCode.js">
+
+<Block Size="424" Hash="9ppb9SYPJmNUIY2FQ0pd8oUb0lJ+Iw4gF9/nOH+9aso="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="3117" Name="Components\ImmersiveDetails\SnappedTvEpisodeDetails.js">
+
+<Block Size="871" Hash="c6rWTaiBcaQU0mnY0HLpoLzt/fM+0snvwc6k4CWdxfE="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="2065" Name="Components\InlineDetails\VideoInlineDetailsDemo.js">
+
+<Block Size="414" Hash="DYcQz8q9ybjhaeJHWIq2+GFiS3N7E8mdz57FflLs99Y="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="5356" Name="Components\Search\VideoSearchView.js">
+
+<Block Size="1022" Hash="tHJt/5IYMthGMbQw7IrhuIifJuYkM+6u/3X3YFx55S0="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="5673" Name="Components\Immersive\Video\MovieHero.js">
+
+<Block Size="1204" Hash="HMKvyFEKUK/cpJo7N6hTuLc3ad+VyifhgjppyaSLFHY="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="8076" Name="controls\TransportControls\VolumeBar.js">
+
+<Block Size="1639" Hash="l8dwYLfqa9IlKS8jlYSe+yhP3TkQfgaQNagcGSFEilw="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="5088" Name="Components\shell\DragDataService.js">
+
+<Block Size="1011" Hash="UL6NqwWPX8kscwnQmRPZyv5Bze7ngcyJ6trE24tspfE="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="3636" Name="controls\UpgradeTile.js">
+
+<Block Size="968" Hash="9QAhGPtA1xe3gvoYXBsNDnikPvrRSPn4KS7CMtDvajc="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="26646" Name="Components\shell\ListNotification.js">
+
+<Block Size="4026" Hash="WN7YPIDYT7tMXg2Hq4iGTQu52Jfk8b9FByPyNs8K/Xo="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="1314" Name="Components\Video\AppbarActions.js">
+
+<Block Size="403" Hash="UfGJ7vaJcTM2FXjy6onQHdrVDxeyEz0lts/SF4EYO8A="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="6393" Name="Components\Immersive\Video\Extras.js">
+
+<Block Size="1500" Hash="+Vl4nGVGAPMmCOJHYourNgVcv5P5+UV2lqfs2/+aX/s="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="283" Name="Components\Video\AppServices.js">
+
+<Block Size="195" Hash="J4emepQo63fu+A1EdwAqHWhATRW1J3lE7ZLL5eTXYvw="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="20124" Name="Components\Video\CriticReviewControls.js">
+
+<Block Size="3142" Hash="AlpjKhsDj7Z2KqaRVj9/kpiFZeDa/lw1MzRtqmnD/LQ="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="62599" Name="Components\Video\PreviewBrowse.js">
+
+<Block Size="8638" Hash="fQody01UzydKdsJJGYMw5hFjzZclIZ1wO5hk8K7dTcY="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="10906" Name="Components\Video\PurchaseVideo.js">
+
+<Block Size="2198" Hash="W3QrfRBBWL2HRr5CNhN2hpo5gwn2FFLiVpE1o2cw/8o="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="27086" Name="Components\Immersive\Video\Episodes.js">
+
+<Block Size="4351" Hash="3pJ52oO41eJbOhMdA0/OTSasJsRnZbLrK8xpWH8oQKc="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="6426" Name="Components\Video\RentalExpirationService.js">
+
+<Block Size="951" Hash="G6nodWQ3Uihwk4qA/DSeaOb3+ieBo2PsdmuSOR2c+6k="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="9266" Name="Components\Video\TransferNotificationHandler.js">
+
+<Block Size="1548" Hash="awB6KrsjtHQ8NjJWUxzYaNO8j3QQfTOXm7UUOP8DM9M="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="22753" Name="Components\Video\VideoCollection.js">
+
+<Block Size="4050" Hash="NNdTYAH6xDy4dVG1jXr2fIw6veWHgc44qhyPHmMNw8w="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="31287" Name="Components\Video\VideoIA.js">
+
+<Block Size="3437" Hash="bH9F0+UquFjMSxvaeoOdP4CkEB143qQrYZsJrOBWy9E="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="11557" Name="Framework\PlaybackErrorDisplayService.js">
+
+<Block Size="2048" Hash="qsdTVED8ABqDDj/siZiYR++18/9Q28gWgFR7W2J7BwI="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="17155" Name="Components\Immersive\Video\CastAndCrew.js">
+
+<Block Size="2993" Hash="uEr61LjsdFNk/hdbovFRyzxYHMyM1NgfUI0ufZ6/jWs="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="1260" Name="Components\Video\VideoStartupIA.js">
+
+<Block Size="531" Hash="p5R7L3KSw0eFI0ZgFCBSjrK05jgr7hK1mgBwHAvEqQo="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="1993" Name="ViewModels\Search\VideoSearchTemplates1.js">
+
+<Block Size="605" Hash="nq6kuIK7UaZRSMfHKq1t99FiyQUkXPWPXEMKxnlzRxU="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="12438" Name="ViewModels\Search\VideoSearchViewModel.js">
+
+<Block Size="1991" Hash="cEZ6ZqHnQKASKnS4W4/Pcp7u/M45L/+JD26GqjN84cA="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="28954" Name="ViewModels\Video\MovieImmersiveViewModel.js">
+
+<Block Size="4822" Hash="5mMWEss2pqBjsfyo+eBCgcWlKi3GwZ4jbUwWVLGzWM4="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="56727" Name="ViewModels\Video\TvImmersiveViewModel.js">
+
+<Block Size="7273" Hash="4MkWZV63iVIT+11f3ZZo+D+DqAbdNKzBUfVK5iCpz3w="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="3725" Name="ViewModels\Video\VideoCollectionTemplates.js">
+
+<Block Size="657" Hash="N9WwJs68mhjPc2qNdotnjOp845dFRKoPBFW/JQS4554="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="12043" Name="Components\BaseTransferNotificationHandler.js">
+
+<Block Size="2000" Hash="bWZ9IApqyufrJNgMOzGDvh31bDgGTKbnFAvCCmUGgjg="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="21993" Name="ViewModels\Video\VideoCollectionViewModel.js">
+
+<Block Size="3628" Hash="ljHZKbN7GS2XUNodtEmWLeJZqiUvREY1HP8s7EqEteM="/>
+
+</File>
+
+
+-<File LfhSize="50" Size="4523" Name="Framework\abTests.js">
+
+<Block Size="742" Hash="phAZ51eNurHEnPBl3t9UrbssUXRs0xG3oJaWcwHxK+8="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="9619" Name="Framework\abTestingUtilities.js">
+
+<Block Size="1436" Hash="sL03mJ70rP2W8Enr3VSekI5G2GpixDRXVUBA8+0JufU="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="20528" Name="controls\ModifierGalleryPage.js">
+
+<Block Size="3227" Hash="iJvQJURfM3PsOiDqYyc9WRSb8CnZgrv2zltNMNl9H/E="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="16893" Name="ViewModels\Video\VideoHubCollectionPanel.js">
+
+<Block Size="2885" Hash="4YiFtzwRmeGPZhrg3109g5UK6WvTpRAow9qIm/pvTLI="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="6211" Name="ViewModels\Video\VideoMarketplaceTemplates.js">
+
+<Block Size="807" Hash="yyhuqhEZrIkg66b6BDi/QfQ9Dz89wtWCMpMvNVUYvgU="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="111693" Name="ViewModels\Video\VideoMarketplaceViewModel.js">
+
+<Block Size="8934" Hash="qL0xPq01Vja+O7G0RjpgWi/6KCrLC7GjO+qg36/3MzQ="/>
+
+<Block Size="5678" Hash="CHV3Nx3F+TYv+J3rBJXMjU7TdBwiNNLIYc44KQYWCKI="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="1280" Name="ViewModels\Video\VideoSpotlight.js">
+
+<Block Size="483" Hash="gb6t1tzRQTmvgFwGAsVhorNycXMy6G0xmwAC+79QZ0U="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="16092" Name="Components\Immersive\Video\TVOverview.js">
+
+<Block Size="2981" Hash="/3OrCdkaLJtYn00HLKZvggzsL5tq60wfd7HHt9KE4J8="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="4933" Name="Components\Video\DemoDashboardViewModel.js">
+
+<Block Size="1013" Hash="WYtIMA637ldkroar6TvN8l8wTz2QFmL6A/THvhbb6AI="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="16507" Name="Components\Video\HubDashboardViewModel.js">
+
+<Block Size="2187" Hash="k6PUkASNktH+DxRnnzBmmkugDxirGMTi91ooDBIVXFM="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="10556" Name="Components\Video\InteractiveTVHelper.js">
+
+<Block Size="1652" Hash="Vib5bgOl8UUQyqf9/qvxj5NEZrqBah8Xh3fO/HS6XRs="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="12141" Name="Components\Video\MovieDashboardViewModel.js">
+
+<Block Size="1670" Hash="FNRBwsWc97OMhjYUF0+yJBrBu6pnKp0DFapOlIh0TIE="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="12017" Name="Components\Video\TvDashboardViewModel.js">
+
+<Block Size="1673" Hash="udrdg2u9b/yUsTNiFzIyqWFGgiqEIjgbGMJTyWhArBQ="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="2007" Name="Components\Video\VideoCloudCollectionService.js">
+
+<Block Size="610" Hash="0zrXbMNMGbrYouJWe+HZNjJV5tkvz8xBP8EfVb8kRiU="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="3570" Name="controls\SearchFlyout.js">
+
+<Block Size="855" Hash="+2zJ+3igXqEcV68lOIicJS6UBmjMN3ORcYOnXRu3HHw="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="5061" Name="controls\PleaseResizeDialog.js">
+
+<Block Size="1206" Hash="rQmIkTMbRxGhlJIWJ5D+w5VE+prMbnTkVmJRXmqzK1E="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="13766" Name="Components\Video\VideoDashboardViewModel.js">
+
+<Block Size="2176" Hash="1zCUQE18Aerlx9JAoLmGeDwq3eMIFmrSifP9/Uy7F1s="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="19333" Name="Components\Video\VideoFullScreenNowPlaying.js">
+
+<Block Size="2837" Hash="/YnGXcXO08cE8/5F8A4kSujTq207UkZX/rmE42LDj9w="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="3983" Name="Framework\CoreFX_TSHelpers.js">
+
+<Block Size="780" Hash="wxiVJNP1m6Kgf2ZIkmR3ZZ3aClZ95jCQ6/NjaM1KQdA="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="20902" Name="Components\Playback\Netstats\VideoNetstats.js">
+
+<Block Size="3501" Hash="Qf5hrTMmwQIiCePWQIKHkh6m5WSoo4kNQrpZIValGNY="/>
+
+</File>
+
+
+-<File LfhSize="81" Size="9530" Name="Framework\data\ObservableArrayVirtualListAdapter.js">
+
+<Block Size="1641" Hash="wLt+FyuJeUZ0B8s2QCR5afiSZKE3zh+tiCRA+1ZJycw="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="1866" Name="controls\Video_Win\EpisodeDetails.js">
+
+<Block Size="632" Hash="LyruuswkoAxrmk65v7TEUK4sYBnzlH0ydWoF7cv2YNs="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="10679" Name="controls\Video_Win\ClosedCaptionPickerControl.js">
+
+<Block Size="1750" Hash="PNzsITAOrMvwd1J8o8aYqBf822Eus0igORwDa3fUN5M="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="51979" Name="Framework\VideoTileManager.js">
+
+<Block Size="5160" Hash="GEXPjNI3sVJO1okNiMyLBWlgeGx2kyLUk8n8LDl13sY="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="9633" Name="controls\Video_Win\AudioTrackPickerControl.js">
+
+<Block Size="1772" Hash="o7/EmaNJ6gMvKiOxb12boycCyN0aDuJ4VSnVPaZ/2+E="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="14816" Name="Components\Accounts\AccountProvisioningDialog.js">
+
+<Block Size="2227" Hash="I9OuCBm9CsM4JpzaipwlcRpbhFjtLucKszncPqqN04A="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="14088" Name="controls\Video\WatchProgress.js">
+
+<Block Size="2237" Hash="vrJzFbSBWFzV0ANf8mOa6KMzI2JR8B5DeLmSQPmuO10="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="9227" Name="Components\Dashboard\DashboardViewModel.js">
+
+<Block Size="1717" Hash="3sNfeqEXv7J/MdQ4r3KBypag+XMUAI3yTx6LYFYsTrw="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="19759" Name="controls\Video\VideoPostRoll.js">
+
+<Block Size="2960" Hash="04N28TGInkj3yXU/XkPLm/dgwLmLYia6XhF5EPixByI="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="70" Name="Framework\videoServiceIdentifiers.js">
+
+<Block Size="72" Hash="p/Xe5NULesWK2xAq6e7sULKX+zp3ins2OiOsoJBa20Y="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="7106" Name="controls\SignInControl.js">
+
+<Block Size="1248" Hash="cxJikt214k6eOxFsDbsniCP1/WUSQSndL5g4UEJMrC4="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="3730" Name="animations\animations.css">
+
+<Block Size="590" Hash="NQdOHkSYRRfnhegPQe01lAY7FSnJmnreuc10cfv+AMs="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="402" Name="Styles\ClosedCaption.css">
+
+<Block Size="231" Hash="y6sB8HY+1G+YI6U9IvZ7yUxfUMXIQBTNO42kyRr2pRk="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="104695" Name="controls\controls.css">
+
+<Block Size="9979" Hash="JJTdDeVzA80ZSZ5Cl/3RfAvmyZj2F9a6y6SQ5txG3uQ="/>
+
+<Block Size="6459" Hash="TQyF3KxEpqmPuikJ1sPJRZpWngFB1cFO08JlccSb0CA="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="587" Name="Components\Playback\Controls\PlaybackControl.css">
+
+<Block Size="258" Hash="NxpaSMyYFJ48recZdmpwL436ps/W0cw8toNJgeAlYe0="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="654" Name="Styles\DefaultStyles.css">
+
+<Block Size="311" Hash="EXUtSlaXC1L3DqkN9rC2d9sjpDBs+TLxeOApj4iPfMo="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="33183" Name="Styles\NowPlaying.css">
+
+<Block Size="4880" Hash="TZlnb90suhiHROCcwOiJnITQe0GW+TRqsDl8bdV5K8w="/>
+
+</File>
+
+
+-<File LfhSize="49" Size="5107" Name="Styles\Settings.css">
+
+<Block Size="1248" Hash="hgaM0fS1DS1t36D+/9RqtFBWogoBQp2k4hjcKGe6jL8="/>
+
+</File>
+
+
+-<File LfhSize="46" Size="10329" Name="Styles\Shell.css">
+
+<Block Size="2109" Hash="kglbLUk686FKZerMANCO/z+U/PagOSiQH+ojQyBE1BU="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="2883" Name="Styles\TransportControls.css">
+
+<Block Size="751" Hash="D7SVmUTGwl9eN6yTpX1qT7pOzbQIjzP8K29/3NHSf7Y="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="6295" Name="Styles\ui-overrides.css">
+
+<Block Size="1445" Hash="jMUIGSLcf3JsgyH53lc7EfizGQNnOFM5sPLxZRzTCGE="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="2921" Name="animations\ShellAnimations.css">
+
+<Block Size="651" Hash="JqkjlRgO0pl2vkLANyU8y4msqwXooyjg6h5ZM/DDiiE="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="7448" Name="ViewModels\Video_Win\EpisodeDetailsViewModel.js">
+
+<Block Size="1425" Hash="4LCoBhvoodDG+ma8O5gHJFEklzW58s917v/v+5VfhGc="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="5369" Name="Styles\Animations.css">
+
+<Block Size="1157" Hash="C/8gSY1SO5wu9eT4ZoE7isLIEwX/TLIRMaWZMmfy/C8="/>
+
+</File>
+
+
+-<File LfhSize="44" Size="562519" Name="Styles\App.css">
+
+<Block Size="10507" Hash="NDVPkCH3Xn/qbtMpy/lv1GzokcxFYwaJztBldUVuGDA="/>
+
+<Block Size="10223" Hash="y5OdUWSeSfAshy1H5Fd9/hPtup4drFEgN3WbfhiWx8s="/>
+
+<Block Size="9403" Hash="sEUOn2JcnEzmoivZHWT4xgPVeLrblVqdk26M5dweAq4="/>
+
+<Block Size="7991" Hash="0hWqJ+EBb3/ahTqHoi1Lz9HwYeCCONJq7qBMb4Oi824="/>
+
+<Block Size="7908" Hash="yZMlog7yQu+r2kViGykMrKZdAlH/VPdB3E13VYYtN8M="/>
+
+<Block Size="6755" Hash="N/3e/NvCQrUP0rbd+b+rDwX/TWdvgBcUdgRslVc7EHg="/>
+
+<Block Size="5600" Hash="JzTOGHGqSUbIpY4x2+AR3L84GFoCQuLbQlxLipBKmx4="/>
+
+<Block Size="5494" Hash="I6zJ+SAGzNM1ED32CpzaGaO4wNWt8FD/W+EVOLHNgMg="/>
+
+<Block Size="3101" Hash="BcWnuXs5m8IAhWTo1ym+odcyZNM0ShsNu7UVUYyPPic="/>
+
+</File>
+
+
+-<File LfhSize="47" Size="14054" Name="Styles\Images.css">
+
+<Block Size="2263" Hash="TGcuyaBx74N2oyPNn2UTJOxkuKE6nBpDxGVun4kqYV4="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="1101" Name="controls\UpgradeTile.html">
+
+<Block Size="430" Hash="Cx53lk+VXyO+EY7emn37g5kxtTFpKfa4D3mESv4Sm4M="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="744" Name="controls\AppBar\BottomProgressBar.html">
+
+<Block Size="408" Hash="xDnQ4GYYpJXeRQN9gfIdoK8SZ6YTW2CHJ+kwJBFx50o="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="5648" Name="controls\TransportControls\TransportControls.html">
+
+<Block Size="970" Hash="k6t0aktDLWfHKY4dnLNHzCOsggYpd087CHLGhyme4BU="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="7200" Name="controls\VideoAd.html">
+
+<Block Size="1458" Hash="/rjcFFzI7nmZhibQr7k9hl3F1Xi6OR6C4iisHg0j7LY="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="16540" Name="Components\Video\FeaturedMoviesView.html">
+
+<Block Size="1121" Hash="CH4lwT/Gybas+pnfyywdGm6pJ1RJdgDGIguOGGKeq+s="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="23658" Name="Components\Video\FeaturedTvView.html">
+
+<Block Size="1335" Hash="gu7DtowoNSjaaKKTf81w5DyL4LnGmekkqur7jF48uXo="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="15924" Name="Components\Video\NewMoviesView.html">
+
+<Block Size="1184" Hash="Mknx+iE8X/yhfumEs3zllvYZbhvETv0iDbe/zrP/jSo="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="16459" Name="Components\Video\NewTvView.html">
+
+<Block Size="1110" Hash="xdPzhlfIF1DQHfSTL7eNBvFfIpSFQfLqQV8VHPKIPqQ="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="16644" Name="Components\Video\VideoStartupTemplates.html">
+
+<Block Size="1885" Hash="pSG+V796D+Qyb6+6nm5Y01lNZfFrk0B/IIGiydFba+U="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="892" Name="controls\SearchFlyout.html">
+
+<Block Size="405" Hash="TS9l4Rx8eaBfWbp39C+S5/5eE+JDv/9lA576gUNtQeY="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="3217" Name="controls\Video\VideoPostRoll.html">
+
+<Block Size="890" Hash="SHSRb44ETGmOZTVC61BblI7aXaqzYccIYl6eCuTNBI4="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="243" Name="Components\Video\EmptyHome.html">
+
+<Block Size="186" Hash="Pf25kexOrUerdWYP50pOUWcNG3IUKEoMwGx7Q1CcKr4="/>
+
+</File>
+
+
+-<File LfhSize="83" Size="428680" Name="Microsoft.Entertainment.Instrumentation.Providers.dll">
+
+<Block Size="21076" Hash="MPVTcCkJsbBAu8U0Disl4pwkirip512o3vrcJ4/2VnE="/>
+
+<Block Size="16581" Hash="dF43mTqfd6pjHOwhuH0dzw5p2vASHYsYRIUzibUgQuM="/>
+
+<Block Size="16558" Hash="ng52C0JRDBylg9z0/znkpHK6qd9oPCSDjiZG4JklLOo="/>
+
+<Block Size="11674" Hash="RLj2wSVshffbjrQ9qGCLIkHvbeDP+ivXlczyBs1NJmk="/>
+
+<Block Size="15264" Hash="OcdJouV+A72CbSfqf02uX7f5HhWlLajaXJcZZVfMm/s="/>
+
+<Block Size="14581" Hash="lAZFsTzHQiLZmuearx6mdPTpNMWt7qAwKBLdj0UUr1M="/>
+
+<Block Size="11175" Hash="pTW4lkQ9PWizgn+yvcfSyObzHk8SrwoBYKHoU5VQkgI="/>
+
+</File>
+
+
+-<File LfhSize="43" Size="652424" Name="EntSyncFx.dll">
+
+<Block Size="32220" Hash="++4WqhabytoyiBWzp1ftBbpaQLk+Nw+DU42MhBjBCfQ="/>
+
+<Block Size="34160" Hash="MYYgo7YDmcvG78xx4xq4KB5G8leGt1fgLVU8tIK8kcw="/>
+
+<Block Size="33391" Hash="dXsUOw5NwAmjPa5xY5WNr9RH4vyxt8UH+JLKTuAgNnw="/>
+
+<Block Size="30968" Hash="o220CDfeRO85zt8wQ6/AKAWk2yHLS3+zqoKX1Sz8kQk="/>
+
+<Block Size="31767" Hash="QrsjnS3rH4LbCNYgw3BZcVDiRLdVBxJSF6UEb3Lp7Es="/>
+
+<Block Size="34769" Hash="/JAaKU/ZJfLs1r+g8xUveBW3a2Tzo5pIiZxnKxP6NHk="/>
+
+<Block Size="34675" Hash="HNh4HE3FHmDMytQcIlt6YVAMOCaf7riNY9mLj/MIQK4="/>
+
+<Block Size="23338" Hash="HSdF2Vywp/LaOqps++lqUPWgVYFhqa51ORYGEKXgoR4="/>
+
+<Block Size="15601" Hash="SfdJAQNqqwBcD/cZo+pGuK+ExiOv1+MRPIp281zitbQ="/>
+
+<Block Size="30333" Hash="Q30Yg31c5z6KfbcwhyAeuCDq2cpnwnK1RkxxG7pbuec="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="1812616" Name="MicrosoftAdvertising.dll">
+
+<Block Size="29603" Hash="aVsU6zWjX7fouoO1QMqVRLhrov6qW67AriX38HQ5mkI="/>
+
+<Block Size="19082" Hash="RGvGuobW0w1HT1334IqWJVDZAWDCoqYAHNPXjhsonHY="/>
+
+<Block Size="23577" Hash="BAYXXstuj3ShokrcDEvMKSp8JIuQTsdwdr5krOGeaFQ="/>
+
+<Block Size="20969" Hash="zmyGYolE14tmLPQULMw+81eGj4pOMOq1gzCeGG44WQ0="/>
+
+<Block Size="15978" Hash="srl4TKYC+IjpO0nsfg3bLmxAzuFVl4KOYGnHAto2sg8="/>
+
+<Block Size="14439" Hash="l6Ct7J0++loLxZYeM/TtWFV4Wq6vDtkqxEhLZF5wngQ="/>
+
+<Block Size="16280" Hash="BpTPTuEQZsicsULwPeoLd4zlOX6+prQOLxNGPLVr5Oo="/>
+
+<Block Size="23632" Hash="cyhloAfxocwyNARzPGkOMIxKvEWDB2vd1RyalymYrxc="/>
+
+<Block Size="20332" Hash="TERMPfQ+1TodhXXwsYL7nJdzPTgplal8DZZ/BGDoCOI="/>
+
+<Block Size="25444" Hash="fEOB3r1ZA1xaZ0vjpV2BIFQGz7avRp0OBMIewc9iNlc="/>
+
+<Block Size="26722" Hash="H1ELnZY5EKB1aQqfWu1AjbBrvQU4Lzj5R4OJpWXauCo="/>
+
+<Block Size="21633" Hash="QKlu+ESXJl9qzmvgy+wctuhUmIYFurcdBKHm00S2W8E="/>
+
+<Block Size="14325" Hash="zSmsTUfkMUgajnZoGWPJJ+3BEIGhza8Yqz0sTNKZrrI="/>
+
+<Block Size="16371" Hash="CKhbODTBvRACNkq4tAdInoz+ZD5+SxXMHlTWaM9woPU="/>
+
+<Block Size="8862" Hash="lPrwpxZJ4pamAYXSmV24KD3JWNDWs46CM5hX8/TlJqU="/>
+
+<Block Size="12838" Hash="EjK3/cOPMWDG3VkBsyjI+kKS84rUAapnIfl8LF27HzQ="/>
+
+<Block Size="9498" Hash="CJ6jKN1lFYnG+bEkvQ1rC/5mcOe3kc9+bNyb/Aw7PHU="/>
+
+<Block Size="10023" Hash="lvy1yP4CwQT1QdaPGmDs8QyMDOKXoE8GtcTfb5qT98o="/>
+
+<Block Size="20283" Hash="VxxMH72fpTyljJU7FzU7veq26XPgBAAVabFyDzEhPC8="/>
+
+<Block Size="21229" Hash="axh7DltfvBnUSbrwiksOTu71caBq2G+DreD0bTePnss="/>
+
+<Block Size="21023" Hash="c/Zf600y7tZ/6M0DqUETWY1gOgxI3Vt7uSq2E1W7AMI="/>
+
+<Block Size="25228" Hash="r1ydR+jQJ2vUWhR71eM4PwTzuVS7jsx4j/qfCDWt8ok="/>
+
+<Block Size="20448" Hash="t5ecoUWT2/uL+96Ux9rNtYkBpgiVicM9bJIjPW7J/aw="/>
+
+<Block Size="14146" Hash="zLXFwzzBQt6DZrbN2Oi64ij0X6kC5DJGf5jjjyCUDLg="/>
+
+<Block Size="4710" Hash="qJ48C059cYs9I2f9uAfB08uAk//r6Tp3/ORG0BI8iHE="/>
+
+<Block Size="5725" Hash="wZ7sDHbUZwbRx7cmpf24hr9G/1BnSA+h5wqhyFntBxQ="/>
+
+<Block Size="27897" Hash="WBt0Lu2lsOb3jGB5pYV31ZKZMZpENQG91swoxsbctMY="/>
+
+<Block Size="13334" Hash="KabRySQUqxSgoofBUPyJE+08Ix/Llo2iXvNBaiV94ig="/>
+
+</File>
+
+
+-<File LfhSize="43" Size="2173576" Name="EntCommon.dll">
+
+<Block Size="27911" Hash="cqd2dwVsb3MS+fy5OW+6eyJNKtVLkwO4ndpQzu9B+94="/>
+
+<Block Size="34253" Hash="KhQtDV3Q4CN9Q30GSYl95+yeNRiXXhsdfsMc6KJusKA="/>
+
+<Block Size="31957" Hash="k1BAEfmCwYy3BoTvWZmImoU4Q2yIX0pp+JM8r9hz2zk="/>
+
+<Block Size="30340" Hash="e7FhCMy7sULBDX3UXCryYwkV0NxKdCGy2nKZhNRHf88="/>
+
+<Block Size="20684" Hash="gMDnvEc2ePzogJq73ahTkfJdQT9qqP9YINocXmouHhQ="/>
+
+<Block Size="18257" Hash="QH2G1VBoM1Lvlzz754faO+I7Jray9B6c+DaDxEA3rv4="/>
+
+<Block Size="17285" Hash="ERuke53D06wgKIOerhEs9qEifQoi/FhbJmL4hBTu/pg="/>
+
+<Block Size="16803" Hash="O5PrLEzGmotqhDB6c3dhHXbL/jkM7pzQ+EVUV+IdgvI="/>
+
+<Block Size="27012" Hash="1SlEQxcGjQBuuk23Eg+nOQDHdRO6joZylgPMXRqH82s="/>
+
+<Block Size="29400" Hash="TYD9M7HKz3ldgntKvnkz7jrONcjZgrjyhLC4cXK2RJs="/>
+
+<Block Size="30324" Hash="5Xf4pP5wF3xRCFQAn/bFNMyk7NjnPeL7XwlcnytSzsI="/>
+
+<Block Size="27119" Hash="Szo5JJuGUw4H66KXj++svzNmpNCg4KyBMyD59eH85RI="/>
+
+<Block Size="30579" Hash="lcYs5qFVOIxNSNsbodB6lez+YNhkz5gZGxEvelFkOAc="/>
+
+<Block Size="32599" Hash="y5XEyh9TH6zopccZW7aCs3YTnHrir0p82OFVDPBn/78="/>
+
+<Block Size="31630" Hash="pisPvZsvXljb8nAZ8w18pil3A+7JBP9q82NWS2GyJsg="/>
+
+<Block Size="35563" Hash="qErfT45tLwd/hz6XOyWtD4qx/IuG/qxdkux3r9LNqIM="/>
+
+<Block Size="31431" Hash="bvfPhBYd2XtC9DbIrAApRazDVrLe4MDXoa7XMh/CMJM="/>
+
+<Block Size="32461" Hash="0iHF/0Sn3QqxoGhsLX5Kbiq8B2f7YQ5dfWTFAjvqkQM="/>
+
+<Block Size="23484" Hash="9fAwEXfdpFw2DW51lOtlWSWQvznqonM9Y/YdsmV6FQA="/>
+
+<Block Size="16775" Hash="5Tq1F/udVvVZtMzOkQ3OnEdr0v7gayw0lbs8o7S9d5o="/>
+
+<Block Size="15755" Hash="vSC5zos4QGUZwEAIwBKSRkyoHSV34414rBrAPcqnwDo="/>
+
+<Block Size="16994" Hash="zDdqjy7jbjxR2yxrOfTVM1yMyvZCsc7VNQHo3/cYtg4="/>
+
+<Block Size="11489" Hash="t0+C7VnYucMeejQ/9BRsD8nIVmvGb6uWtmztwsejkr0="/>
+
+<Block Size="21964" Hash="pE0Ci3PMmEX29LPAwM9/TpV8NMEgfLTlbTPDnBLOcuk="/>
+
+<Block Size="30655" Hash="dCfXLh41tvmZ0FM0TPwnHWnXz45K4ndNWmFWqse1UZs="/>
+
+<Block Size="23216" Hash="ddrm46UuhchvRQ34UGLesUQ3cgu0ylg3CGaBBgpUxN0="/>
+
+<Block Size="2624" Hash="k6S/07DQiMIsMUEr7UVQ+XouL5k8sqGFB0VqZ597IHk="/>
+
+<Block Size="4042" Hash="K0SL8DbmPiF6is+eOf1hB6gNBY4lIG8xOLER+fR6bYw="/>
+
+<Block Size="28600" Hash="WzeU2eajrpRXp1pqVrNyQ+/O99AbBQ5V5vqKqu4wTe4="/>
+
+<Block Size="10089" Hash="lxTM9qEKnm1193eT9s26ahhtJyxA3VFleGxGlEfEACw="/>
+
+<Block Size="14068" Hash="wJ0M2Kke7Yv1ScuneuMIekCm+vrT+HApvd41oIuTMfs="/>
+
+<Block Size="15327" Hash="Ce455dfa9alngnarWU6ZUyL8RJn5NyOKFF208IiLIno="/>
+
+<Block Size="13347" Hash="oLipR/fZUzipWWJpFSA6iHrPbA01Q77pKgpmYUuQbNY="/>
+
+<Block Size="6761" Hash="2AGrU4VbaKvq/YB5s2JZ/+2DQChur0RYdDtgqq1aEo8="/>
+
+</File>
+
+
+-<File LfhSize="41" Size="14440584" Name="EntPlat.dll">
+
+<Block Size="31526" Hash="dVg0nSvY+F1BMEiLpCcVibI7qVu8cE+CswGX8GigTX8="/>
+
+<Block Size="28982" Hash="FCmEpez0sTg3NR6O8Ra4GILapFNAi0GEYi6C/9KRB88="/>
+
+<Block Size="25980" Hash="JXvliy8dIGvtwfNXYCsz3bcq9E/pfOT4fEo3Uu1GxOw="/>
+
+<Block Size="25479" Hash="excjRhlE0//Sr4C95zda7v6QhOuxCJlyjhHCcFdawzY="/>
+
+<Block Size="24026" Hash="ur+sLK4VteThKGtraAfHl724Eouy7Y24xrcJ9bGRki4="/>
+
+<Block Size="18063" Hash="8nDtOEb1fD6mPblElo38cl7vxO1EOJrAgN1b/aJXe00="/>
+
+<Block Size="19901" Hash="xXRsODmQJRnWe5CJeHNGPTV4MJHCPA1GT4iGkOUmrmM="/>
+
+<Block Size="17443" Hash="WeHSgJi1ffSvvC+Xx4u4Mprhcg/HSgFbghr9vxeLMOY="/>
+
+<Block Size="19758" Hash="G4ZdLbDAmMifCKKiGLcYeRCkrFkUTjE1Ls4JAm693qo="/>
+
+<Block Size="19120" Hash="bIaGt76EP4mmKVtmti1UY0lJePgF70BhCzRwXUOis74="/>
+
+<Block Size="29504" Hash="TgUceAXwKRoXK5UzKF7NJnIVh5tz1KG0UIOZ/xlsAa8="/>
+
+<Block Size="29498" Hash="CdL6F6o3rZd12+rYds0tu1wilhW5ktNOyhLUm+o8l0k="/>
+
+<Block Size="19478" Hash="MgDsjIU4kCkpK/NnQvJ4Pcde57O/jKF8bV/EOwPLuhE="/>
+
+<Block Size="14898" Hash="X6fcdpQ9TQzFNzzSUHvxMwnbl51PizQARtYDrCXOys0="/>
+
+<Block Size="21298" Hash="G4o1a8Pq41300lRffNEXb/3qt7qYporeTvdto/wRsKU="/>
+
+<Block Size="28160" Hash="s/fbcgpdU5LdTe4u31AbZoYtcNN/RWUD1ENsYxpcdiI="/>
+
+<Block Size="16295" Hash="wk4+884kNWtdXmC/yVsyIGZ4BcyPlsBqSTBep7/OCBM="/>
+
+<Block Size="21290" Hash="KDGQVyQkeRCozhAFA2jyzJ6bUAGPzX8yg2ZU883w3sM="/>
+
+<Block Size="31288" Hash="ReNkM/y6WC+NKU08ksb52+o+/rnz2fBV3zd9IladyLk="/>
+
+<Block Size="32029" Hash="lPGF3GxxT9NSvhrj/+Cr7/9k+V7XXzILu08mjQ3lFow="/>
+
+<Block Size="32479" Hash="tPnfzFtDD8HuTtaCcJd6BWCO0MIS8Hjp/kmgN8v+TVM="/>
+
+<Block Size="30816" Hash="UECfkTrnfFxoPpMl+bf6uYvREc1XdWuQZ2+mdjq8yBI="/>
+
+<Block Size="32094" Hash="K2ARBNdvPLiCpQx6B6WrRCJ/70mNIhGs6t1WOOfmcUY="/>
+
+<Block Size="29785" Hash="PajRfA6+a0qCrNYinxy7mt5x4yyaRdt7H40wwNmAMeg="/>
+
+<Block Size="28318" Hash="aY2n9HGHwL+4FwXjDdwA4vpArzbdVoYU0VDQDzWJzgA="/>
+
+<Block Size="19415" Hash="DfR9Mr8X7L+bxGRGG9RheTMGd+lV6ehDPEWbC+6c21w="/>
+
+<Block Size="17648" Hash="28k/n1ODef2/fEXPP/McNAGjTwh8lcTOe+Zw0/NfLC4="/>
+
+<Block Size="17204" Hash="jrE/de/tCftdfbpGx+vkyJSNJzQvp27X65wYmfHLREs="/>
+
+<Block Size="22321" Hash="dtI7Qn4L3GypEH64nkMN3wc8G5ZK6ktrScGv/INRCoI="/>
+
+<Block Size="16149" Hash="O9oY8Ob/OrZKi/+7VfmPZFRFkGyFN5WefR5z6D3R9mI="/>
+
+<Block Size="28409" Hash="FjAmKtUuHg/F2tg2z6rBuzKUfmOWm4TKhD+Lrpr7z9Y="/>
+
+<Block Size="30116" Hash="ZNTggaDLo+BT4L36xJ6gqSPZLYQZ0wsh4pXSIa48n2U="/>
+
+<Block Size="21230" Hash="avmPmJaf+wQaTkcXWc3nyKBKcjKpsSBTUqJxTi/2cSo="/>
+
+<Block Size="24050" Hash="iqcZQ2q7eOi8bDZHtUeHlH8uVqcMSUum47HvbxSi9N0="/>
+
+<Block Size="26164" Hash="hUbn0W+D7J+7SFudD5l98mRRCrbXv39v793He6XBMe0="/>
+
+<Block Size="25006" Hash="8bTgru1niZyidJ4YylCRzDGm250Gl8XkouG6+BrUp94="/>
+
+<Block Size="25340" Hash="ZMPkZt0ivgUBjzs9I9UZ2Woc6VF4HY5mjjnGKPU6ZwY="/>
+
+<Block Size="11392" Hash="+fAVgSsz1LHBqXln83x0OxUlr1HxC6aCYczpTjI+WkY="/>
+
+<Block Size="15186" Hash="sIZG+T0T9N1dIOlC4wU771qLMlL1Icfy5R3SphBGfJY="/>
+
+<Block Size="13361" Hash="ErKJneiASCB/2l6n2QifK2Qc98TYTW3mTsNgR19Mn/0="/>
+
+<Block Size="14547" Hash="/uVog/le5ZowgG45nIgP+OiXIOj1pZRHs9/AKPSdWE4="/>
+
+<Block Size="25493" Hash="r54qGqONWcv71TwnYoc6Z4Sh+MWIytEIOiFtp+Scuf0="/>
+
+<Block Size="16413" Hash="uXkDqVBURXpBa3JnKDdeL5tsTr7VhTrkXUrdGHWOGUc="/>
+
+<Block Size="18844" Hash="K6DHM/RLh33bB2e8E01LQk+gt+WhTjU4GL+tRR/937Q="/>
+
+<Block Size="23298" Hash="3qLC+Dt3FyEFP6hp0K0NldNRvlnpeYjE1+JhWiO58K0="/>
+
+<Block Size="25925" Hash="ZdLTdf3zcaBP4Qvgg2Lt/jXo42gQl1/QoRUD4Ynxp/Y="/>
+
+<Block Size="27547" Hash="mKrp3bCrXu09Kl0UiE9P0IXVxQbSoo/t8ilAZjVgDUA="/>
+
+<Block Size="23388" Hash="HnnlBHIPk4eKYtd8qo7UPMznx4Ky6tcPu1VG4/nTm+4="/>
+
+<Block Size="29703" Hash="74RDS84JqlHKrjPz/MOSoLHbjAvcnKbalknmO7WFtWM="/>
+
+<Block Size="26756" Hash="yX4262jVeKWvOs5WfoGOHqDFZPk46KlNTVjIVgMVubQ="/>
+
+<Block Size="29185" Hash="1wOr4vUwujm0ZDB3CCpkljjgTii3YaSDWL3+K+L7uqA="/>
+
+<Block Size="27669" Hash="3PqA2KbZjyimgD0ltcdXURWDYoKwKTonWQD0SjgSCN4="/>
+
+<Block Size="29457" Hash="X+ON12Qn+tPA+f2sX8FLIJHT6gandCXXEEA49Nm23i4="/>
+
+<Block Size="23112" Hash="6U5p82xmmoGax2bYsOr2acjXbFrOyOBzLMcS35CpnoU="/>
+
+<Block Size="25397" Hash="ieMcqpVrlqkUpuj7/rNcpD5Hm5GBbbMsty+2R4884QQ="/>
+
+<Block Size="26154" Hash="VzCDV6SbHkQ1VH8hz8ZzAFnwRZ4nMaJ+S+RZ61xliB0="/>
+
+<Block Size="30243" Hash="rdOUuKpAhTZa6gQFUUnKcAeFmc3QHDBkPvAj3/3aRVs="/>
+
+<Block Size="30305" Hash="dNr6RCpn9jjsC874gAShbVrqfgXIoOlYdWnVJec5Y8E="/>
+
+<Block Size="26951" Hash="EklUw7zzFQt/Slm+iKhRHwjkm03DoagN7fWsUqtIcjw="/>
+
+<Block Size="24882" Hash="+02DZisF3iM5Q62wF0DI+Mt4V9uFo5WKy7FtvPOjPSI="/>
+
+<Block Size="24897" Hash="8LSmJrquaZKNSVsYwkuP9X9YK3RK67PfR2huH1JkpdA="/>
+
+<Block Size="29575" Hash="4X0xT17SpVHmdYv8KZPj7xKS9/8fxlAzBgUBo6nm99g="/>
+
+<Block Size="29384" Hash="5JT5hTVHK4bddVA3qKxhwfaTHgmJS4wn90QGkfMR2zQ="/>
+
+<Block Size="22548" Hash="oq53tlpVOvn3NL3GTAYR+6P9Y78wu6UDwtDF/G952i4="/>
+
+<Block Size="31662" Hash="t4eO0AIMV6j+Hpx5s+wOuLrdyJNFPhBKPNT3MGYi0vw="/>
+
+<Block Size="30037" Hash="1RbmLp+NVeIT6F4EvhKff/rHqIZsoZybcFzuws13iXM="/>
+
+<Block Size="28794" Hash="gWLvhd7k7S7Q8LUcmSx2lz2cmK1+u7JzYSCRPLpjdtI="/>
+
+<Block Size="24894" Hash="y5/BnzQs6PuqHJwXQz6O38xkrsLYcmsmFTEIqnAUibc="/>
+
+<Block Size="22936" Hash="zgRKdsoLLMJfIFfZ4p5VhbUFT3Kz55Q8fI+bx/ff1Ac="/>
+
+<Block Size="19600" Hash="sTrUnHI15PoQlFIDc5dMED2kf4e7OE9VL4YwdIWduq0="/>
+
+<Block Size="16361" Hash="fhvoR3Us+vTKj6xho/Hq77JVpDumnWa1XMs/nw+lyhY="/>
+
+<Block Size="15017" Hash="k9xecDI/FZga9mWBAa/nIR0WYJcc+hSj8t0eeVIxwYs="/>
+
+<Block Size="14346" Hash="MOFrEEccB27C1A9modXsX6nj3UYoPilAxgfD09hzhCA="/>
+
+<Block Size="15745" Hash="qLEtgPlAoe9FQ5b4fLGjh2kbxquOKsHQlpY7yFSz6YY="/>
+
+<Block Size="28870" Hash="zHVRakakL1rC+u7qHsNIZIxBDVog4cpFFRhxLoMzb48="/>
+
+<Block Size="30662" Hash="xJE119SmLZMf6quyxzKVqBPgEKT6AtuRMEnt4kqVoJ0="/>
+
+<Block Size="29987" Hash="57YogZLMHdb99ZertgtauEE+EKlNsGMTD4W6jyM0jLM="/>
+
+<Block Size="27545" Hash="NPlV86BrgRx0fzYZw0PeyjeupWNt13UVaUg1LU35mms="/>
+
+<Block Size="28296" Hash="zseJsS3/Ghw2r0QHywEdSwErDIHhOfo7hpGFkY1mNWg="/>
+
+<Block Size="29440" Hash="9HWUG7ORHoi1OCZ5MZkUkmgFmG6H3GA+KGDa2APypik="/>
+
+<Block Size="31366" Hash="BDOc8gPU13B2HFyBwltCmQMEV+v3s0mxirOKfFmb+sU="/>
+
+<Block Size="19922" Hash="3aOANj6VZIsBj1WRD1mKn6Fu5fhnMQAWbkew1EyRab8="/>
+
+<Block Size="18236" Hash="mPjENmNhIXQHuYJzHHjV6qyMUxt7Yu6DPc77KejiZbU="/>
+
+<Block Size="17578" Hash="aW6tv3gJCCbu8Z4E5uy5/6kBFramYm5NtJ17sbc/+FM="/>
+
+<Block Size="16614" Hash="q69FfH/J0TF/AawBpHz42CL2AuaFnTLahNrVMBjDeHM="/>
+
+<Block Size="27394" Hash="h0dNwuai/MBpz2pyCKy8KSpf1o8OQxjl9bZT62NcZFo="/>
+
+<Block Size="31199" Hash="mpKads5jIQtszyPv2/QPAy6lZDhOxN71g/xPqX0tvKg="/>
+
+<Block Size="26699" Hash="vTOVC5LEKd9wxv5vlTLPgojGMo415LA2N39KVqzMy9k="/>
+
+<Block Size="26006" Hash="GKO+jA2Jp4Sx5Lif2ynh43N3WVQV4jFtj4hY29qCvFE="/>
+
+<Block Size="30118" Hash="0E/PFrHEq6Zm6IiKqKHBee6M5+QdZbq60Lt1B6h6FIg="/>
+
+<Block Size="29798" Hash="Z+2S57Nck1Ptw2qRoImCgwBTccgZXRL3CQBCnR16dVY="/>
+
+<Block Size="28844" Hash="86pOlI9sUGuwpXdI1GUUFo9zqs3sV5rmf0N18W53Jck="/>
+
+<Block Size="31927" Hash="aLzXbVKustwQg/CUnJ2GiqajqN7N9Egk4Ci9R4d/YME="/>
+
+<Block Size="31353" Hash="BHSjkn+KaNaPRsUzx5B5W4KPUq2BYs5CwvE3uE/UJrk="/>
+
+<Block Size="26125" Hash="ySPkk12S6y2Qlb4FxpSRW0LfmXRk58/KlurKUEXHeG4="/>
+
+<Block Size="21015" Hash="pOE3HYCWd/+9mCrkatNk2+nyK2bDf/hDqQGy7RZ2eQA="/>
+
+<Block Size="28615" Hash="YdoF0KprRhffjB3dIMuMhvg4SeZ6HA+Z9QNBDdy4P6g="/>
+
+<Block Size="28862" Hash="sj7sbKCw/vGNJvjacEdeB4+YfdI0eFoVLVXrvoLVO98="/>
+
+<Block Size="31434" Hash="pS3JK+OqJ5vev9rsvyXFlNKBNtndwjAiAfWAnJpGZZA="/>
+
+<Block Size="31995" Hash="HCTawIT9poMS+H96wh6E3bbnDsWLVYUpRTFDjREhs+w="/>
+
+<Block Size="32877" Hash="kWIKU67Hvxf6nAzItICRjY+qos93d46EPMhKSVV1R+Q="/>
+
+<Block Size="29946" Hash="oqYyjIpFmPCh4rKuuK0I7PJKAdTcHYmzz7XdPdMMLS8="/>
+
+<Block Size="27643" Hash="etvQWmn3LoNR2uIe0biwZUqzDPPHZ5IPkfgx0XehGws="/>
+
+<Block Size="21670" Hash="feEPpV5lsMOM97KrgL9XX3/9OjvsAAjj2e+pj565sZg="/>
+
+<Block Size="20304" Hash="nTBhDpwv8ULm91kcAYitrDwz1vl50nvAyhIWvzOoRdk="/>
+
+<Block Size="17001" Hash="t7hu+XQP5ADb9V7cswjb23maxInCZOQ0Bbs0yUuqBR0="/>
+
+<Block Size="27127" Hash="LRxGQDnzkqR7p1ImDnrRuFEXXVXz7Tw8TSqGlQEO6mM="/>
+
+<Block Size="24072" Hash="t7mWHWtgTsWWn0LlBDyv2j8/ySugqJTUVN715pjYIcU="/>
+
+<Block Size="22280" Hash="EwZJOOVtRGWsn+ar/u004GC5bR3l8OqD+beWQRe8Edc="/>
+
+<Block Size="22900" Hash="KWk0bY9W6/N1qEYXAVaCOUpzVOC44xBm1faPOJiO45c="/>
+
+<Block Size="23920" Hash="64Asa6N7giZ5n11rWCGbOdbKjuFAvj0ag1B8LuZol24="/>
+
+<Block Size="27516" Hash="4bj4Bhaz2O4RYeXMInm2W5Ngkc7k1T2B2o0La5xRLh4="/>
+
+<Block Size="33341" Hash="17ro9QgqSKbDBnPzD9cSMqX4ZI5mEid58l/PQZhVyNw="/>
+
+<Block Size="26583" Hash="iUdMIsuNzd0pT4S+ATed4tTJarQHjPnKeh5SEVVvXBA="/>
+
+<Block Size="30189" Hash="S1Hd5QNrdUZpqhw/OtyQz/RDtDxMHeKvFJWnM9Xmcis="/>
+
+<Block Size="33089" Hash="kWikmhH2nMrUiRtj3iUS8IzbSgSI/5UP8y3+czs+KYQ="/>
+
+<Block Size="22173" Hash="SQDjFG+hLMV7wjFBxzT5uQBlneCavxNhGOX+nkFJaE8="/>
+
+<Block Size="19329" Hash="jlgskLBf158VOrd+xlTXCBt5ZyNYi7hbgkp8t3kvxFw="/>
+
+<Block Size="20085" Hash="hYKosPlTkTQ4YLzrbzxKExyM8/F9x6fSiOTiiuliUOs="/>
+
+<Block Size="18908" Hash="AQ561mTDrqYsVAy9Zkr2RFiS2gY3TBe9DEWeBRGOHPo="/>
+
+<Block Size="19476" Hash="S1MD1R56Ak5PsEUryEPR5itkWcLQFkjmw7wF3I95VK8="/>
+
+<Block Size="22475" Hash="4uFfM/Jj1TS0mkqSCaYqp8BekqIp/Zii1+KumLSrkis="/>
+
+<Block Size="24616" Hash="is9hJ9EJrNHNcPE0/nHOvOYxCPKaW4v+JHb4TxeyPMY="/>
+
+<Block Size="20383" Hash="bKjJc+AQhTBNTTP+lgnD9vo7/VLXyw6G5whs0/n0BxE="/>
+
+<Block Size="22637" Hash="s6FIrYzEeb6oYbw2BreI8+wCcPpmkQsZ3DnB76Y5dQg="/>
+
+<Block Size="22138" Hash="53l3Q6LJiVwH9KT3Ug+gMtbQBOEp7AVMWzVpMLKyrgc="/>
+
+<Block Size="20799" Hash="fcKUjj5o+oNzOcGMp4PqgMsFoYB71F376JW2+dzZ9x4="/>
+
+<Block Size="21480" Hash="CCsMXMnBbAsAtVbeRvQxUn9rS2QC5h8NBEkCjCRCSiY="/>
+
+<Block Size="20496" Hash="7YIFU3J7346PDX/JetT8igiTUFWZzKRNuBflcLXxTkQ="/>
+
+<Block Size="21387" Hash="kGVrzEjWLYA1Me2d08LzPH1qYh/dyuObJHcneqZBEo4="/>
+
+<Block Size="15116" Hash="PyWv8bvAPKCHkqbiInfwqQ4ZQFXJ8lJnDm7nhWQOYJo="/>
+
+<Block Size="11666" Hash="zIL5Wq827pHIwHq+Z2d0ar0wRNRIzmN30YLsBWSYhOM="/>
+
+<Block Size="13707" Hash="nPBi2CIo87ak//MZo3tvVwHsqycHAZmIOQBDMY9Bmms="/>
+
+<Block Size="10725" Hash="w5zOn4+RjVSEj6FDEgSgYqTMQi8SFF01j2KLTnDGfrk="/>
+
+<Block Size="12383" Hash="kS0Ow+NkloJhvBRU/u40KFfpNXLtNuOHWslqiRtTpCA="/>
+
+<Block Size="14008" Hash="OGSz/30TQWr3OU0SqG6noeIMcBQLhgKzXf3FjC3S7tQ="/>
+
+<Block Size="12725" Hash="ceULQ6Fbg2Zisz4QiqZVUt0q35MebhLExs1D0uUmkds="/>
+
+<Block Size="13334" Hash="s0RZ+Sl2JL5szhVB1cT4yw6kLhOu9oi4rh6Oa6P78wM="/>
+
+<Block Size="10049" Hash="p7tRg9GFMEa+zqBqAoXxgVZiaOEBuMwsBeVu4Pc6K2c="/>
+
+<Block Size="14534" Hash="ZahGsk0C+Fi9B4pZTpiDuYTWmOzENezpJfocU8Mtl0A="/>
+
+<Block Size="12900" Hash="2Vkr1KVyWXZjFtBF9XED6nxUgMsMGN4VrGOSGSjQv6g="/>
+
+<Block Size="16124" Hash="GTAsqQILrdKf4lifGEcXRA2YMHP9lImvijVQQ/SYayo="/>
+
+<Block Size="15626" Hash="wwpmkALNFaLnGIpaNXMtfBdO43ZtVIbldhH9DVTMs7A="/>
+
+<Block Size="13427" Hash="v/AWcbp/Je3aKp1cqR0RTcXfXco6Jy3ZrAvQDO7Hk6g="/>
+
+<Block Size="14529" Hash="UyC5CuuiCZB9wu6BDfbjuQY23LvNoWvyaLd35BPp4og="/>
+
+<Block Size="10650" Hash="47dQmq2IAeUKoa18nGHzfL7afXyk0c5FJ54Zpt6MEoY="/>
+
+<Block Size="11993" Hash="SEnDGYZpNAfNO7vosuprmPi9KTAfH3aOKxeFiRjKUzc="/>
+
+<Block Size="10702" Hash="z1grIHaMnHGpM+hRlNfk5MxazdMfynrnEKmEmwFzjeg="/>
+
+<Block Size="12320" Hash="IrstSlmdqlrrEiJhqtZ+58vPb2wOMjKOm8mFVhwSnM0="/>
+
+<Block Size="11835" Hash="nbzYWPIhDYTK/rR8KKku0n0yUQyNN5g85e8uCqVe3cs="/>
+
+<Block Size="12452" Hash="xxn3sodU79SJFQRiyCIuauUwDaBXOnitg16GxaLR8HM="/>
+
+<Block Size="11944" Hash="LnfaZnBQ58RX/THnJlpz2iK6/En3CR7y+sMwoCy0W9Q="/>
+
+<Block Size="10171" Hash="QCc+5msEQr6Ip2HwbunM6PV9tXVCc8fuhBwuZkMYSww="/>
+
+<Block Size="10610" Hash="3+DyHoPv7EtPnSLJXfYRgCekIv5wQ0hciccIELR6Hx4="/>
+
+<Block Size="10159" Hash="6mVifnu3UZ2T8kqBJ59WsbbkB8fXlk9xYZtYmyyBYqw="/>
+
+<Block Size="6171" Hash="a3DKcnOO6ZfKoraMYIupDPlCJ4fjUGXo9OBCiOUc9z8="/>
+
+<Block Size="9569" Hash="IVYKZCbDh1Edt5DI+bEHPU7CRuluoQCGGrrqp/D31e0="/>
+
+<Block Size="4872" Hash="TLMcP/3ZjL1gFOhpZ5oUhlZIuBTkeiVU4ShbS76wcRw="/>
+
+<Block Size="10398" Hash="kiQtkQC30jqmEcgYq5NHMT5mo+b3aG01HADBA8zsqlc="/>
+
+<Block Size="10079" Hash="CFRSk+K0CqwIZVl2Lhw6ElnyojUvglAqnhgDZBd+ups="/>
+
+<Block Size="10531" Hash="7vqoGGITzGxK1Mg8k8p9Jq/Qv/wOlJbDhQjxQPv0ZKI="/>
+
+<Block Size="8518" Hash="6nbmIu3VcRPsx07fkI69/IaklBm8YVANl9aGxBNMNNY="/>
+
+<Block Size="9811" Hash="0kU3uvIPGQnyKcKicvZjn4/7zrZRRgH+qK7kD8zHe4k="/>
+
+<Block Size="9836" Hash="mf8mxqvGkzrq6X+xIsqUYdItVAJ39WNbVmdMJmVXXfY="/>
+
+<Block Size="9757" Hash="R8Te5f4xrHxA2GfugvpT64t7zb8IIK2E8antxYqyD3s="/>
+
+<Block Size="27549" Hash="YAFK3n2n2T9MyNzPQrYeU9z9j7BYrGvAaiA4UJVdxkI="/>
+
+<Block Size="26229" Hash="NiklK33akXSyuOVsgmW9aLbfYi58BTo3Z8eZW+my7/0="/>
+
+<Block Size="23924" Hash="vcFlrKLzeXesgMNQ4Eba7dXtSvSTsydWZYGC7+0z3dw="/>
+
+<Block Size="25340" Hash="lg3GxeUZ6dDaIYRF5Qj5GqoOf5S7jV7ttmNXYxiXJtY="/>
+
+<Block Size="27879" Hash="WH+5JixOhwIPoizQhP9AkRILsPcngTt7DYK8KwZUi0s="/>
+
+<Block Size="21326" Hash="LL2XQmWV29qIRgcnPfa1Gznoye0ME7ax3qF5jNfRooE="/>
+
+<Block Size="30456" Hash="AHa6c8icrjf5VY3ECBCoCaTgcsEqPPQtbjlEMWNBo08="/>
+
+<Block Size="31096" Hash="fxh5f6wlGPW/EYKPTPPwFxwfixkgxG8EbStVCwWdFUc="/>
+
+<Block Size="29690" Hash="iF0KsquotSSQ0ZpRQvuxc+FAvJfLGzxM1JRcwKezJYo="/>
+
+<Block Size="23858" Hash="wHvXDwBJuNLfBFIOz889zE5QPw+BsLyVzA490Zj4CKw="/>
+
+<Block Size="23617" Hash="CtYvpq6B92e22h3Wp736f35XBMjjGfT7H8txH196rL4="/>
+
+<Block Size="24696" Hash="xAsoRhfmqD83GHpcOgqgch4YX3gEhU86gEgQKk1V6Zw="/>
+
+<Block Size="25364" Hash="CkOr5VrAd32MFC7NqYkZVBqYVWCi4RMBhtKnpGh+qHg="/>
+
+<Block Size="28219" Hash="IWmK+iySsYoPbmWmphSvc0Svg+Dtk3Rsjw/T5VBJpQk="/>
+
+<Block Size="27481" Hash="Ktv4OEYlZAhi2+il6bMS47LtlW1n26VdjJ0wcmQ7QvQ="/>
+
+<Block Size="27061" Hash="yu6wF6U+r53PSNNsPe/drO1yBIWqPo7aISv3JEqCwXY="/>
+
+<Block Size="26850" Hash="Cjn4bQqn/XNftqjxF2pR7E6D1fJRFbzuf6a0wNMSjuQ="/>
+
+<Block Size="24887" Hash="ib+Q+LB/V+KqKKLBop6ao/YdGv2YNRNj3PaI13xIYJk="/>
+
+<Block Size="28497" Hash="1i5tdRZl6v+yE8XTwc+y3odY9L1R3lYA9igUxSlMozg="/>
+
+<Block Size="27580" Hash="hGKxFhzW6YmtScajquyJyuPP5H6SVvsTPOi+jOoL9Kg="/>
+
+<Block Size="26876" Hash="ZQAu01PbowHUVnOxGxMVZlUsv7iR90gscIdsCFwn61k="/>
+
+<Block Size="25883" Hash="q4j874TY52IcfolO/WI6NYLOkl31k5XBGocmttHG33I="/>
+
+<Block Size="28108" Hash="8de3wc8l2JwceyN2WI2YQxVRit1bmbjt7jY063A62e8="/>
+
+<Block Size="25641" Hash="XaUC+P0f3Odafr5y7/b84tDahocXzFN03WOzOS8k7nM="/>
+
+<Block Size="27406" Hash="IWP6uuZ30QfUTEUy03mOIJYHg3QVB88S81NMwT5hrAk="/>
+
+<Block Size="19402" Hash="Ts5VK74SVXhQsl1uUmMiqmZ428ctuSQUHKSSZmNhjf8="/>
+
+<Block Size="2238" Hash="C4psbq2lPbl5sRhKB0cBaOlb7POmPBq8SAv+75WSDDw="/>
+
+<Block Size="9839" Hash="GIv5LC5GRm2oF7s5EuJ9bcZcjHxt6b6VT8dt1RI5Mvg="/>
+
+<Block Size="165" Hash="DnKo8j5sQ/Um3W73ujiHAYtn0nQyAcKzjEIA3ZUH6/M="/>
+
+<Block Size="5211" Hash="h14E5NGa2wesQloAvpSe0FaEStchy5C9SVgCv7fxqCQ="/>
+
+<Block Size="5643" Hash="o5vfgyGTXKSZf+TOoV4X8Jn1nQPZ7EghyLz+zhq4Uag="/>
+
+<Block Size="6118" Hash="xcCBJ2Lb+uhIjNCAdnGASPh9Ag5XnRqbV1GMCkf8QCo="/>
+
+<Block Size="3029" Hash="Q1RVuUrB0FnIWfQDAwNJEJ69+xQEl4s0edtdrXyz9tw="/>
+
+<Block Size="4114" Hash="nwlpINpLwbl9qybcL4d6TNsIMISv4HyMw9e5KQ0mIrI="/>
+
+<Block Size="4323" Hash="nJ/LlrnZDbJzIrynD96+J/eX+j+ocnEPyruqVqcud6o="/>
+
+<Block Size="2719" Hash="vQZnLK3DZmZNCMMF5ZwBwj3IFpGVev9MKja8zKGrbUY="/>
+
+<Block Size="3766" Hash="y6tMAhD3zoiOxTgyGKIGRV31nrXY5ZBtuGHNy7SbFGs="/>
+
+<Block Size="6409" Hash="pZWe4TjbdzFjVIiDpia/1iN2CCnUQlWvj0GmjLF8ps8="/>
+
+<Block Size="4335" Hash="Vs3DRD3VIo3czDeQhGOmuffhZdfm/xNqQGOIghm9fYc="/>
+
+<Block Size="3879" Hash="A6GVZASIC3GGHRyD6LPZUzUGKusAsokxA5zSSh3hg9s="/>
+
+<Block Size="7753" Hash="h8AtVJTcrYkwpqMuKivSbcyrY3y1yZmvtelTKUxYzFU="/>
+
+<Block Size="7494" Hash="0pc0R5w+XYfl/SFZrcsCIGl95xAaxZ/M86LP+Vpa8EQ="/>
+
+<Block Size="7870" Hash="quOAlVRYg9vP5VIIlFh519s6xLD6THpDxljLE638QyA="/>
+
+<Block Size="23396" Hash="SwtZwrDUCPvBx9TI97XqDo9o+qYc5daN7HUi1W5Mjzo="/>
+
+<Block Size="32896" Hash="VVaf9KMDJUgu27nzJkV3Nm30Ez42/zbm+pWGtMkfibY="/>
+
+<Block Size="33898" Hash="SNWyAFNj9P+HKBOlWUYXz84muHLaw2AZDDRjCAxy1Hc="/>
+
+<Block Size="30576" Hash="DwBmkDGIoS70kUOoM9WFU6hvj4+cAV0ie1VHYr1hWfA="/>
+
+<Block Size="33987" Hash="2OfU0zzjVA3Kt7c2tiex3IJRUxJhz8+UgsZ1j3yriSc="/>
+
+<Block Size="27610" Hash="u22q4e0U8fQriOAeL+ywv0CWN32Iiu2xz7Yymt7pVMI="/>
+
+<Block Size="9904" Hash="EtOTU+sa0h8eJwkZ/5l2mP6TXtMstNhnr3G3naO+Kfg="/>
+
+<Block Size="14558" Hash="HKVKY+KF8NwC6P6reBqriKNGv8C+c6DtUM+nhrdYlGw="/>
+
+<Block Size="14979" Hash="cW1sMrsIIZEp1dVVuyAuIUwLe8w6aqux5h4zEoBk3ac="/>
+
+<Block Size="11806" Hash="ux4Qky6ybtc8a3aQiCQHwbIP41aG45ujwmPrIvJzcCE="/>
+
+<Block Size="2577" Hash="ych0DJ37/Z9COIYR/shDG+Wk7MZnTmWzx0zqu4/BYeI="/>
+
+<Block Size="4971" Hash="lUqMMxREvqHHftoabrOw3MyCvYbR0O93CfY43tHnQq0="/>
+
+<Block Size="13107" Hash="PY8LFfPn9H0JCwUf0cofxuBgWTV39GYnxazS4ub8tSs="/>
+
+</File>
+
+
+-<File LfhSize="44" Size="2226762" Name="main_merged.js">
+
+<Block Size="6567" Hash="ELUam3LzoPHkKbxCiy4DNWCtigiLC9F/tj9XGi94o7k="/>
+
+<Block Size="5917" Hash="ggerK0VWYiH2tu6K4gRI/o3eUYPrzxYMUkfG//Wp7KA="/>
+
+<Block Size="5556" Hash="DbhFtGtNQIFpsZ4Ni7LuDr+fnoXPq9wvCV7X3W9CV7Y="/>
+
+<Block Size="5164" Hash="xR4onOtHELYAqMFvLcoGRsIxpE9z8dzRxEf81nGaGTs="/>
+
+<Block Size="4292" Hash="fhJN17TDFnTmDLfoSP5RFp506e6mbVxpiSG6AIeumKo="/>
+
+<Block Size="6905" Hash="57EJx8VO5B6T6RgYVtKu5ABfk2ICtnXc2ou8a46ETg8="/>
+
+<Block Size="8876" Hash="JXO4w4iCbd56QdI/xZviehLasTB1Cfvx23e0y28Cvkg="/>
+
+<Block Size="11388" Hash="vV3jl+ALkpQaAUPygxi7pbuGQRFoyhsdOEN5TkjV1zc="/>
+
+<Block Size="11561" Hash="Mc2Cybr+HV6ZQ56qIPYxMWsHb5S0oCCrY5XnhhvXPBE="/>
+
+<Block Size="9029" Hash="H0UC9I0mbEVl8yru2HQe7RN/W96m3HBoPsD7Mlfb1fI="/>
+
+<Block Size="8838" Hash="WcL3Spfe4Ev5oQowfgdgU4SzWNVkYV7D2DUAMMHJPXc="/>
+
+<Block Size="11112" Hash="iXritHxQZvgdc/40FCg4lHzk95OXGJxkpyGT2PNOoHc="/>
+
+<Block Size="13114" Hash="Uxdn7gFtpb6X8cmHljAc76gz5CLFtDf7evD+LtP22NY="/>
+
+<Block Size="8184" Hash="lqvKH/WN6ezUa2ZHI7ssmgIbkujqysJ8Gm3zBjeGxLs="/>
+
+<Block Size="8142" Hash="MMk4bC7J4WWFSTQdMR96Lch7QNnkv/9wJusF9H7CaM4="/>
+
+<Block Size="11385" Hash="waU5PKg58OBfT0YwZy9vWc5gXz+G2ukdDHWwUa/a0TE="/>
+
+<Block Size="7087" Hash="jiI/02DMrvKQfqfc6nFlwQmouv5dwuej7hsLjEfgHQc="/>
+
+<Block Size="9443" Hash="jh/JxuCDQzhI4btXRXixr3YUvs/3PXv8xidQlVuMh5g="/>
+
+<Block Size="10177" Hash="wksZW5tZlfYY3aPrISmBI1iHGJumpe+OeQyDstJwVAc="/>
+
+<Block Size="8692" Hash="IwyNQEjlt01uP7wxhmB7aXd+OIzUKGsq90TuwYY9epw="/>
+
+<Block Size="10138" Hash="FYp0vl8OLNMU70hcqvLdj916G2smLH8m0i9HoeAqSCo="/>
+
+<Block Size="9358" Hash="lUL45mYh0yxlZlBJp0d4dsyOUWV3BELRC0ObAtsgImU="/>
+
+<Block Size="9074" Hash="YO43G5u72sePnrLGM1SnG+ljygg5zIhjJntHUF5AwXg="/>
+
+<Block Size="8533" Hash="xmTD2J3Df9Mq3ftz3vqyLZn7Sw8Gr+5gEyepOD9mkYQ="/>
+
+<Block Size="10765" Hash="g4G4rcIbOSeHAEgwDEtl2kIUv9+H0o3iTABl7fi36To="/>
+
+<Block Size="9544" Hash="APHaMysCLTsWhmf7jv3Lcf09uFs4y+2tJ/Zxe9u3Azc="/>
+
+<Block Size="9240" Hash="tCQ2YK1iNlGYtRO125ySJYmR0lMCr8ve7TmCKFIIqCI="/>
+
+<Block Size="10333" Hash="ztK00xyaarJVWc4MbzGEVzHwtYL3vsdd8s3P5k68QfQ="/>
+
+<Block Size="8309" Hash="8xzydgdr6kDMRkGO+8zjqH8wBrHucrWeodQXXWua6sA="/>
+
+<Block Size="9272" Hash="VPr4sB5T8aq5ZWDkPZKbYBBM1CP4/4nMfbeej6/isFc="/>
+
+<Block Size="7627" Hash="8WN9bBLY9HRg3K0PyWVcvnsgBHB+waVxqPSujZpoZe8="/>
+
+<Block Size="8955" Hash="XznvBgpwlfg1qg38aSiJAdqLljGFqj5g3jr9azcYrYw="/>
+
+<Block Size="9881" Hash="zaizFlz9voVevBRKgbheZ5RU7NXWenDHogmNBXlomB4="/>
+
+<Block Size="8679" Hash="JE3ltLLeQGTBhJzeL7VlS5GC7H+q1a9WKVqbbuZiamg="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="75272" Name="VideoCollection_merged.js">
+
+<Block Size="9712" Hash="QNPDJQED2ihGtT0TQS6t5BOKpakE/BVl8zs7gMeUtBY="/>
+
+<Block Size="1673" Hash="RPA8dHLXEK0AzvjM6FT/nah6MpS0roo7YX5Bqbjboio="/>
+
+</File>
+
+
+-<File LfhSize="47" Size="1518763" Name="group_1_merged.js">
+
+<Block Size="7393" Hash="jTEXJulIqwrfeA3fzraaDlKI5VF3S/ZKnKcsGOhLBAU="/>
+
+<Block Size="8791" Hash="hnJ7qkvgA1jCynRx5oMNctNjH1Ctpam7HUyd5gnLs8A="/>
+
+<Block Size="8963" Hash="WoKk51je60ZXT+Qe4IUNUfIs6wfL1oeHpRm6n2b+Ff0="/>
+
+<Block Size="10060" Hash="v9bZsC0F18tk+Yu2Mw8qXalQjwAOugfmPS4ZNm4Ylq4="/>
+
+<Block Size="9413" Hash="uoW/OdvFRLaAn9jUilE5myy3DtiuTg7EMhkNRwJA0CY="/>
+
+<Block Size="7743" Hash="3Pjjts3tB6zQYwuNlbEnJJB0ynHUI0USSelfC0sPoRo="/>
+
+<Block Size="5413" Hash="aq1GioRmlPNsCg5ZX6Tw+y1tN/2KVKxR7Sfw0RTNTIw="/>
+
+<Block Size="8289" Hash="YWD/cq46ZOK1gR9yPmofmIyV7uFuvW9Ttol8Tkg/Xew="/>
+
+<Block Size="8242" Hash="bu35oMPXPVsM21/Z8A3LEeeQnakRDUutykGiuHg3Zv4="/>
+
+<Block Size="7096" Hash="DdsXBTO1U10nFoUTrWtJK82df+sP3ySP7FnEKbH2Guk="/>
+
+<Block Size="8036" Hash="f8kjY7gvPEx43Y0lBvT3vdvaYdv2PtHgws+ir5mn+/M="/>
+
+<Block Size="7651" Hash="DriYaCCYDXVqgvypJ/wMWrkPpImK73FQkt+C5D8qMsM="/>
+
+<Block Size="7604" Hash="VQi7T+CoJObv2OEUdlJ16V8q+0mGZzt2nGhiaIENa0E="/>
+
+<Block Size="8906" Hash="W8LtbCb3xz1SpMVTa56wjMXjpXwt8eIfdXKsUQ3WD1M="/>
+
+<Block Size="9360" Hash="OmACRJw8sODvgh4YuCYAKzFNLg60FZOujpVegjXKe8I="/>
+
+<Block Size="8963" Hash="c0fXDdSIo15CpbVEvigUrvfq5xX9Km5RQGcn8o8gXdw="/>
+
+<Block Size="10619" Hash="Uohuo/n7WAmPqWGIerq7tFrzdYad6RpXQRRrXpWHRXQ="/>
+
+<Block Size="8425" Hash="gkIvQ6kAKCkejiZkCFt/QURWoTJzWE3eTmOFApREcV0="/>
+
+<Block Size="8217" Hash="OY947MzGKBoVPsG9iR1B/ISI0iQ9Y+tcTjXuL72A7Fg="/>
+
+<Block Size="8571" Hash="M1m3i8pbKZZ9Bbep64asX9FLtR0r3TgprvQJTtTDtXw="/>
+
+<Block Size="9575" Hash="d348xcV2ancE/cClT0qkJ0QIj3wj0AXzL7Q7UygTl/g="/>
+
+<Block Size="9292" Hash="QbJhCaWWlt/gbT/Y1QY82HcZxvYQ8/9DUr9FhqfsNU0="/>
+
+<Block Size="9852" Hash="KroCXILmYLsg+yh83YmI+ASJm/88jc9tXivG+CfArTw="/>
+
+<Block Size="2335" Hash="WkAk3GXi/K7qrPpJICKYnQFwI3y6+RTtykXM0EVJgh0="/>
+
+</File>
+
+
+-<File LfhSize="47" Size="8354" Name="TvStore_merged.js">
+
+<Block Size="1549" Hash="xEx/JN5qhA/hnGKYQMT8v6n5nGG9aFPzpXSDgEhMzHU="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="7996" Name="MoviesStore_merged.js">
+
+<Block Size="1509" Hash="ACCi19AzboHpHpVkooVPWCHHPUfZbGYac6jKZUlK8EE="/>
+
+</File>
+
+
+-<File LfhSize="47" Size="1445294" Name="group_2_merged.js">
+
+<Block Size="8337" Hash="SGDX9KC1sot1bai2xyDzjahrS8+y+m5iBYdFdP16Nbc="/>
+
+<Block Size="8959" Hash="d3NAjHA2OT/6NvSAgcjfCL9NauuxRxVGj5y5h0RbXMI="/>
+
+<Block Size="9380" Hash="4F1rDf4ldkrQBfakxKKLaD9BGWocnyIek+gsrhTFvlI="/>
+
+<Block Size="9761" Hash="8xhFlIvywa8prIwTQhk0rd3ZBWvmyK7sL3V24najxyc="/>
+
+<Block Size="11734" Hash="KYyRgwDfVtsqPBqy+1kJvrIo1X/FdAdg9U2VZ1CgIbs="/>
+
+<Block Size="9762" Hash="hwvR1pwsdzeQ7533nTIAgVdn55HTRjMH+tkDn6daCcc="/>
+
+<Block Size="10537" Hash="3c9JNQFk73y8rYJQ/rmVDj0wkpyyHBjV2IcWLg0bQSA="/>
+
+<Block Size="9658" Hash="Uk5OrOMOzdQePX8TgG4z4IQO7HZubWWIDHOFCdXWV/c="/>
+
+<Block Size="9014" Hash="64MfLsfCeMOzZC19gJYQczCjyMkgAziqXm57N2pgxH0="/>
+
+<Block Size="9669" Hash="gMl//a456cGW18M1MVcO2/dVZzYcxAsQdSocGCRKN+4="/>
+
+<Block Size="9714" Hash="lbO1SLk0rNse/0x0oTZgC4sUR6DcsKSOFN5tbVBWzbs="/>
+
+<Block Size="9753" Hash="nzbi6LS+r51Y6Dijh/77NpN2TdH5FojVE/q4p66lJf0="/>
+
+<Block Size="9347" Hash="bjdwRy9ow2PCSV2UFqPoBxtwyVvYlxgPZk6NE5dYQuE="/>
+
+<Block Size="8456" Hash="bNYdPVsU6kdzrLe0JTGAAHml2wGJVtXQFHIHFSSGaF4="/>
+
+<Block Size="7983" Hash="hhNn07Gjw2+nkgm9MysH2ZAzqG/sSVCsjIyRnkcRTzA="/>
+
+<Block Size="6539" Hash="q2+3Kox+IHL0V0YASDAk5PrqD+qQn85RZRKeN7tov1A="/>
+
+<Block Size="8562" Hash="L/4LLN5z57aF4yseqBElwWKw87Ix9YXsCw/EpHJgl1w="/>
+
+<Block Size="10583" Hash="bbflBKFv1Q+f2qy+nUbS/U38KUEH/5so7Xk7CFQz9gQ="/>
+
+<Block Size="7122" Hash="lZGMXxYmuCPukb+QxCSFj4BlfKjn2yNjaQp9RzPal4M="/>
+
+<Block Size="7105" Hash="V2TVW2cvhWh1EPFnsBLnTtkRVTO4RxZZhQSJmv8HE70="/>
+
+<Block Size="9327" Hash="z/xNRQ5P3n/Psp/XLfoDZ33p9sNgQcoX9ZYCIQkWbEQ="/>
+
+<Block Size="9559" Hash="luAx40iy6n0YbwJ242bDIk0cOkPCFX65emk+F1Zb76o="/>
+
+<Block Size="865" Hash="y74ToPCe6o6qFNQWpo5b98TqeNFukD4qlfmIcriQ/nI="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="69134" Name="SearchResultsPage_merged.js">
+
+<Block Size="8250" Hash="p5aFo9k1g31i1EEXL8BBZ7MXLPQk/XdpfqfSQqTMdpg="/>
+
+<Block Size="861" Hash="hWGoU6RESKakeCFvlS7/9+9iBeBTL3e1RhjhmbakvFc="/>
+
+</File>
+
+
+-<File LfhSize="50" Size="52474" Name="NowPlaying_merged.js">
+
+<Block Size="6125" Hash="bxtLfTx2gbh0LpmtiOn6NduL3cOGMIWwiFg26AHfjpQ="/>
+
+</File>
+
+
+-<File LfhSize="49" Size="59745" Name="TvDetails_merged.js">
+
+<Block Size="8110" Hash="jpIGcVCc09SKy2MV6iBQynaWXUchoUtxFOW6cn79w5k="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="32864" Name="VideoMarketplacePageTemplate_merged.js">
+
+<Block Size="3031" Hash="M+IFyRaf6byLkKQyN9OsIWSpz2ibNmN19cRDXCOHi9A="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="406182" Name="MovieDetails_merged.js">
+
+<Block Size="9808" Hash="WRUmEr9+gpZXzjq7eI0chmqkLRFPNbjgsRIReg9mKP8="/>
+
+<Block Size="9990" Hash="pvDQwknfBrpA9jWBErrgfhL4RY0u9MZMekUGVI+0CbE="/>
+
+<Block Size="9192" Hash="kMXqfaagcVxQ3QgIqTVsSqt6UiODIubuK7xAUnATemc="/>
+
+<Block Size="9824" Hash="m3kFaPGGsmMfNbbPZXTIByKoRoDTzDaz3CAWi2dODJw="/>
+
+<Block Size="9116" Hash="OALCVieQJupl9u2J96Vhdj+x0cAEagznJVIHazv5vlo="/>
+
+<Block Size="9571" Hash="IUUimAxWgRaq4ny+n+RTJOMX5mlp/ioOrDFvsEXj2BQ="/>
+
+<Block Size="2424" Hash="IfDjhUxDhO2o3m2d2vDb+tGWHIxvZuZy6kHCvm4pk54="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="35075" Name="Components\Video_Win\TvStore.html">
+
+<Block Size="3359" Hash="H5Q/+hKUaWg1eCesQtesOe/w+Op+No02I22PttvFVZU="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="26395" Name="Components\Video_Win\VideoCollection.html">
+
+<Block Size="3147" Hash="02bblgSLheWU7+ThDzs3bWR35cth6BgLzfmX3M6N2/E="/>
+
+</File>
+
+
+-<File LfhSize="39" Size="11947" Name="main.html">
+
+<Block Size="2118" Hash="sJ2p1eiSABn65GX1sK/LAOwzsIID6QELDcDmivZJ+qw="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="49382" Name="Components\Video_Win\MovieDetails.html">
+
+<Block Size="4751" Hash="wHBgZelPQ/6cVS0thySRMVDPfBsnLMrgus3RheQKe2Q="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="23413" Name="Components\Video_Win\SearchResultsPage.html">
+
+<Block Size="2658" Hash="5ZaWM8cAphrNByFL4fUDiDWuY7/uiOHDi+mgH23a+cs="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="31804" Name="Components\Video_Win\MoviesStore.html">
+
+<Block Size="3305" Hash="cCpXl38VLEv4UmmZS8KqP+g4ciJptJO7RRyKmuWYRAI="/>
+
+</File>
+
+
+-<File LfhSize="81" Size="6363" Name="Components\Immersive\Shared\MoreGalleryControl.html">
+
+<Block Size="1137" Hash="jhaIJXD1Ll6BeM7pTVWYrnCaqOPXdL2XVf16UqYUU7g="/>
+
+</File>
+
+
+-<File LfhSize="86" Size="21137" Name="Components\InlineDetails\MusicPlaylistInlineDetails.html">
+
+<Block Size="3050" Hash="ZpsqG/isLmrIjdqidMaiye6bZyPz7X033mypDP44ybA="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="1241" Name="Components\Immersive\Shared\RelatedGridItems.html">
+
+<Block Size="557" Hash="aLbkQn/Lrw/oZxTpf5FRQFEeWaVfpoE9a8Z6Wmt9Ngg="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="4021" Name="Components\InlineDetails\TvEpisodeInlineDetails.html">
+
+<Block Size="1084" Hash="QFcUJW0QAWnj0lNyloa7sG0shw90hm/oktkB0DSMkG4="/>
+
+</File>
+
+
+-<File LfhSize="81" Size="14392" Name="Components\InlineDetails\TvSeriesInlineDetails.html">
+
+<Block Size="2042" Hash="ecHkMOISyYruzgeWfdHVPhOK/a4AQR/XxqZGD1pe4ZQ="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="6464" Name="Components\InlineDetails\VideoInlineDetailsDemo.html">
+
+<Block Size="956" Hash="b/QCron1Fsie/GJYw3XyGrx/DsWv2H79UT2iuRSLlpw="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="4880" Name="Components\Immersive\Video\MovieHero.html">
+
+<Block Size="1257" Hash="iHaWawQGvxR2rr3kedhxtXgQPOTNTEASlQEfuuwcYb0="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="6823" Name="Components\Music\Music.html">
+
+<Block Size="1203" Hash="kZGXEFDrH6Po0Y6WcHKY+nFXxpeWehxF0jlnSieFgds="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="2136" Name="controls\NowPlaying\NowPlaying.html">
+
+<Block Size="648" Hash="APmUPdoKsZei2xCJvxVnGdr9KQ7JNxSiFzpuRC+Eciw="/>
+
+</File>
+
+
+-<File LfhSize="85" Size="12926" Name="Components\Immersive\Video\MovieImmersiveTemplates.html">
+
+<Block Size="2141" Hash="NZn+BDLuRPv+0klEHH8pau2zGRJml5JaU6ifc6TUgQo="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="15361" Name="Components\InlineDetails\MusicArtistInlineDetails.html">
+
+<Block Size="2886" Hash="Jzio5CJB/umDngo7Xyr2c93rEhzKHWRPi5fXiEIGJZA="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="1046" Name="Components\Music\MusicPageHost.html">
+
+<Block Size="443" Hash="JkYK9aU3o37fuHdjjkFMmgq4eb9p41mtUUMnkJsNTqs="/>
+
+</File>
+
+
+-<File LfhSize="83" Size="17619" Name="Components\InlineDetails\MusicAlbumInlineDetails.html">
+
+<Block Size="2624" Hash="b2zc9kXnxngwKqisyzuAkrJWcvZjf3+L3au3E/a2RNo="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="1215" Name="Components\Immersive\Video\MoreVideoOverview.html">
+
+<Block Size="522" Hash="qFJNsi2EMZGz+q7RIFhmGKgBTdnMl1VGMowFPcYonvI="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="6476" Name="Components\Music\MusicPagesVertical.html">
+
+<Block Size="1427" Hash="QQykR93KtPDDnSD3fljCJ98B292eH+LMBt5gXmHVKY0="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="7724" Name="Components\InlineDetails\ActionButtonsControl.html">
+
+<Block Size="1099" Hash="uVJwvAePjTwkuVI519Mb5svuQnH3gtsalOfdlU8pB7k="/>
+
+</File>
+
+
+-<File LfhSize="84" Size="34868" Name="Components\Video_Win\VideoMarketplacePageTemplate.html">
+
+<Block Size="3415" Hash="MtoZi85lUri4GH3xhOfV2QpQVaYnKxTGwmCePAp4sEQ="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="7113" Name="Components\Music\MusicPanels.html">
+
+<Block Size="911" Hash="75JGs4kr3s7gkp0XMBvY38J6GlTVilIM4WZO0mLyA58="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="524" Name="Components\Immersive\ImmersiveNavStub.html">
+
+<Block Size="287" Hash="xX4EQ0SUd8P4ZDwfnm94ld1kqnJlg0LSFX7n7Lh7XzM="/>
+
+</File>
+
+
+-<File LfhSize="86" Size="3150" Name="Components\ImmersiveDetails\SnappedTvEpisodeDetails.html">
+
+<Block Size="823" Hash="9SjQXt29+Ovp1oEWxJ5JGFJN8swkvz4n9Z7DsviiYIE="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="32586" Name="Components\Video_Win\TvDetails.html">
+
+<Block Size="3890" Hash="pW3tlLei6+7dVEXZxhHxv6nWid63eIZCjp3tMZK3EWQ="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="3412" Name="Components\ImmersiveDetails\SnappedMovieDetails.html">
+
+<Block Size="830" Hash="0721+M3Y4UdFeFZ2hAer1h9WPZViCENcCmjQnxyf2rQ="/>
+
+</File>
+
+
+-<File LfhSize="46" Size="329" Name="msapp-error.html">
+
+<Block Size="240" Hash="t8QgH79ctdeoUqrRj8+lflyNjA97nQrX62ZxVhe+iFo="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="1486" Name="Components\ImmersiveDetails\SnappedDetails.html">
+
+<Block Size="494" Hash="/r6OdlkRG/oBIMigDwYGqZDNHZLvwPbXRyQgwPnEi78="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="3191" Name="Components\Accounts\AccountProvisioningDialog.html">
+
+<Block Size="771" Hash="nXj8LW67qE77gmnpxDVoNGq51qAiJJemjJ1CokQU/ts="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="8388" Name="Components\Immersive\Shared\RelatedItems.html">
+
+<Block Size="1439" Hash="9+6GmvlK4N16SVQcnLt5e+uRGhpFHVHGYaebQe8E4kg="/>
+
+</File>
+
+
+-<File LfhSize="79" Size="992" Name="Components\Playback\Controls\PlaybackControl.html">
+
+<Block Size="444" Hash="u3pFGQZ1Qlxw60cV7VS/KmwEO6Z6RT3Wk6KD1osMX70="/>
+
+</File>
+
+
+-<File LfhSize="47" Size="8849" Name="Classic\Main.html">
+
+<Block Size="2031" Hash="WsiJoj0CoL+LlZP9XfsyWozEL4ZtveBGTLjwetzQmmQ="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="280" Name="delayedStageFourStartup.html">
+
+<Block Size="182" Hash="QYp+1D6F4Lpep/uFCM5CsFyXXPlt/q7vVym+BDf/mDU="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="937" Name="Components\Playback\Playlist\NewPlaylistOverlay.html">
+
+<Block Size="456" Hash="2YmrTVu913uX5qNepiiHbFU1Z60PWUaNIbTapU79NRs="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="4606" Name="Classic\DelayedStageThreeStartup.html">
+
+<Block Size="989" Hash="MLwTY0v7fFcB3Z/g/+iMoQgJHAESFppa2RC+e7wrkvI="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="1824" Name="Components\Search\SearchSharedTemplates.html">
+
+<Block Size="544" Hash="QT9mVKbtJyzIQc/Ev9OmeNhCpUt9bBJm2L8ggNPQ3c0="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="959" Name="Components\Immersive\Video\CastAndCrewMore.html">
+
+<Block Size="511" Hash="KrTbPs46Px7oGkK6oq8AqsbsWCGA7i+99QJzgH3hBI8="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="6703" Name="Components\Settings\SettingsAbout.html">
+
+<Block Size="1220" Hash="EmjeyqG3W+xe01tLYR+O6DodViRkcGKKaG5nL+GK4PE="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="7553" Name="Components\Settings\SettingsAccount.html">
+
+<Block Size="1294" Hash="Q43mfUYPPUr2IrJrGiGZfbqURCHrODSnkuTxtxvQD/s="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="8317" Name="Components\Settings\SettingsCaptions.html">
+
+<Block Size="1150" Hash="eDihjLjwl6RqiSF3Hv00MzaQmJjozaukT7tPQmea/Ok="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="1068" Name="fileActivationStartup.html">
+
+<Block Size="373" Hash="bUgDmhmZzdHexrcGk/pUsyvo2/MqcotdtVpoisFKdx8="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="1600" Name="Components\Settings\SettingsFeedback.html">
+
+<Block Size="625" Hash="3FM2I6lHUhEuO525r6WkoZMo8IfBzywWFt/ATxgp7XI="/>
+
+</File>
+
+
+-<File LfhSize="78" Size="974" Name="Components\Immersive\Video\CriticReviewMore.html">
+
+<Block Size="508" Hash="MR40r4TekwFO7P6LdBG98kT0O9G7/1LVU6vvLJCBxJI="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="18803" Name="Components\Settings\SettingsPreferences.html">
+
+<Block Size="2395" Hash="q5ji4aGLgtqWPOJwZG9lDqz1Bu55MT/ZxsUA6R+kSFk="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="7752" Name="Components\Immersive\Immersive.html">
+
+<Block Size="1518" Hash="BbSWp9TK2OiV/KgsWzHqGGA8RXhxp4lFVHCC070Yh2g="/>
+
+</File>
+
+
+-<File LfhSize="60" Size="1001" Name="launchToCollectionStartup.html">
+
+<Block Size="344" Hash="EWJrx2JlZkzst34iXN4h9XNKrEEBtvuHCTTYrIkM/Es="/>
+
+</File>
+
+
+-<File LfhSize="44" Size="908" Name="updateapp.html">
+
+<Block Size="454" Hash="eyoSIG9boIXP83GX9Gi1ddIC1cEKcvcgQXGeKCgWIQ8="/>
+
+</File>
+
+
+-<File LfhSize="74" Size="887" Name="Components\Immersive\Video\EpisodesMore.html">
+
+<Block Size="479" Hash="Gz5poqFrcFzLGYRIR0ZXr6Gq/egOepE/CU89u1M0zho="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="1019" Name="delayedStageThreeStartup.html">
+
+<Block Size="353" Hash="h6lCgqkG2XqTD/55cgCYRXhJDrlkV6FyPbBWtYryuEE="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="16422" Name="Components\Immersive\Video\TVImmersiveTemplates.html">
+
+<Block Size="2589" Hash="sDf6o+krA54w1iUXXXyruuwDu4lGnkIhg8ka+XrwLx0="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="4981" Name="Components\Immersive\Video\TVHero.html">
+
+<Block Size="1351" Hash="TZ0r8h+lNKSXedj/fC6FvlU8sOls6Xl7MSAYTAAHYz0="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="879" Name="Components\Immersive\Video\ExtrasMore.html">
+
+<Block Size="476" Hash="Bob7fmEY9aW+f/UvcU0K5bRqC7htehku9QLYNeFMvng="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="3167" Name="Components\Marketplace.html">
+
+<Block Size="742" Hash="GKj+LY/CqlPhUqfEl39wFiBuXjcAULBgqN+OwqJ6SeI="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="859" Name="Components\shell\SnappedMode.html">
+
+<Block Size="421" Hash="jBTPmRaNAxX+iSur7XVcuHQMugv6b0RLwN0hihPrrqI="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="879" Name="Components\shell\GalleryHubStrip.html">
+
+<Block Size="385" Hash="IEcOTwTKYjngLE/MsGWtd3BNPNMKx86d66Nl9dSc0ek="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="983" Name="Components\shell\FrontHubStrip.html">
+
+<Block Size="381" Hash="lTZxW+j3RUGZUEFrNT2K0Y4z+HmPjvquTG7J+OgBFc4="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="2319" Name="Components\shell\ContentNotificationList.html">
+
+<Block Size="685" Hash="aSu6NFLIgqDF68PNuoS0+BD+Eo//AAjw0xvoJdraZmM="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="5723" Name="Components\shell\appNotification.html">
+
+<Block Size="1109" Hash="lzYNIHJikPjkQcedcaKAJJrK1Igevmgrej2FiCbNvxk="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="3332" Name="Components\shell\AdControl.html">
+
+<Block Size="836" Hash="18kGyOHVF6ms6j6KyTKMuPPLsU8IqE+I5jEZNuYzP30="/>
+
+</File>
+
+
+-<File LfhSize="65" Size="10821" Name="Components\Video\PreviewBrowse.html">
+
+<Block Size="2036" Hash="16W/qv7cvGnIzu3geu0qlA7fWC4B1115dDiNpBZhqco="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="2206" Name="Components\Video\TvSeriesHeaderControl.html">
+
+<Block Size="792" Hash="XNE3bvUHCpvIRuVK9B6PgIAfF/Cz3lccL5iJHheEbPU="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="1949" Name="Components\Video\VideoCollection.html">
+
+<Block Size="647" Hash="Y07nNXX0sjdR2ZTSVoB9CNj14plFbjVViP+J6vgFhIQ="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="2218" Name="Components\Video\VideoCollectionPanels.html">
+
+<Block Size="530" Hash="QlhoF92u2WiqDR8LeAjaqBwjfFyTsOqmJeMdBgENiVw="/>
+
+</File>
+
+
+-<File LfhSize="76" Size="10235" Name="Components\Video\VideoCollectionTemplates.html">
+
+<Block Size="1761" Hash="/uZo+j0trRI3u6xyttMTBhJTw2DbZBm9MPVL/hRssoE="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="2329" Name="Components\Video\VideoFullScreenNowPlaying.html">
+
+<Block Size="765" Hash="XARqdaxDFu/Lv9aEkFqoOqW3cW7PTq1xGWyrlInUpVQ="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="97310" Name="Components\Video\VideoMarketplaceTemplates.html">
+
+<Block Size="5090" Hash="78OhUydYH6z4mrmCGiBGGBcncMVJZeyzexQYfbif0n8="/>
+
+<Block Size="2421" Hash="1YJPZITodOv1Nu6L0aRxJBX/tAw9gbdsiRtgItq3Kos="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="12133" Name="Components\Video\VideoSearchTemplates.html">
+
+<Block Size="1575" Hash="1BMfsW/EerX0iXn41uFVMjDFX/fK9IlOIhau595FtbY="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="80902" Name="Components\Video\VideoSpotlightView1.html">
+
+<Block Size="3883" Hash="+n/r/P3JnQtVGTnmDKay/aQRKObTWBA1NL6GKgpZeC8="/>
+
+<Block Size="1109" Hash="EPKB+EXUrrTOm/SFDEjpTIZrCwOqqEdW7xGJCUVzTtA="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="22946" Name="Components\Video_Win\EpisodeDetails.html">
+
+<Block Size="2685" Hash="8+XG/hkMmRI9CpjQFlkfNGHlPaB7eQMYr5hckwlfs2o="/>
+
+</File>
+
+
+-<File LfhSize="85" Size="1161" Name="Components\Video_Win\VideoCollectionDelayedScripts.html">
+
+<Block Size="377" Hash="qGt0Qq72RvzlGAwJ9H9du47QJ3AFjZszhcl5A4/jrgw="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="6080" Name="controls\actionList.html">
+
+<Block Size="1459" Hash="9uFmxyl2Ba0lPzCrGFsgndiTrkwkzriFh25/H1oHx70="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="7839" Name="Components\Video\VideoPanels.html">
+
+<Block Size="966" Hash="/HjgHA27MqDN+88cQPvOZSJw9RwmZ+4c47yOA/xOmAU="/>
+
+</File>
+
+
+-<File LfhSize="56" Size="1325" Name="controls\ImageCollage.html">
+
+<Block Size="574" Hash="Bat8xy4Ydyt0dSMUxYMKCO8xiRIEnxhd//gUnB5tsck="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="745" Name="controls\ArcProgress.html">
+
+<Block Size="389" Hash="4j9+BWDeu54bLi0UWYLdka5Yl22hCSX64jY9PFodrPU="/>
+
+</File>
+
+
+-<File LfhSize="53" Size="1411" Name="controls\Dashboard.html">
+
+<Block Size="499" Hash="D+KO4zGk9yMjm068tNJg4sCK7SFmaVapB9Gzw3hJydE="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="758" Name="controls\DashboardPanel.html">
+
+<Block Size="339" Hash="Ej8bN9WJ5R9yYMNXq6emn9mQZTlmId95aBS6d3nfZ+I="/>
+
+</File>
+
+
+-<File LfhSize="50" Size="4165" Name="controls\Dialog.html">
+
+<Block Size="1190" Hash="9bYp8ktSpEc4R/aUljTXcsd7ewPQOMfQA/oJ5cn/VKk="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="4088" Name="controls\EditBox.html">
+
+<Block Size="1017" Hash="i8PmkOxPtUjIXvl5akaMf18ixby+tDGVS9ds0WT2g9E="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="3556" Name="controls\ErrorDialog.html">
+
+<Block Size="888" Hash="cgaP1+2a1qbrWD534KI0mxFzZLviLksGWSnUFz4wGqM="/>
+
+</File>
+
+
+-<File LfhSize="55" Size="8982" Name="controls\FailedPanel.html">
+
+<Block Size="1307" Hash="kxm3toG8G6jJweVkfc+A08Rph+RWaq5o1al/FsE7PPc="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="578" Name="controls\FlipView.html">
+
+<Block Size="333" Hash="uVrxciESTWVuwGoehSzO3OmvKLY7uB+TZJpnezXAjRY="/>
+
+</File>
+
+
+-<File LfhSize="50" Size="1561" Name="controls\Flyout.html">
+
+<Block Size="576" Hash="xi6w67oYV94VO2Kc+SdJqw0JscLaKo3y+C+nnk8ZaQU="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="3824" Name="controls\GalleryControl.html">
+
+<Block Size="565" Hash="i703IzBcSZUgs/qnJk3s5pBrwmcThVFEQP6gV5cUEt4="/>
+
+</File>
+
+
+-<File LfhSize="47" Size="5003" Name="controls\Hub.html">
+
+<Block Size="1167" Hash="4c5GVHoA2RL7U/KxDaHFw4VkpPHkdN+KLwQfx4dbv0U="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="3317" Name="controls\HubStrip.html">
+
+<Block Size="961" Hash="qd3G/xTAPgx81DTwts/sx9qSll8mgtZ70fYexwOwHY4="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="9636" Name="controls\iconbutton.html">
+
+<Block Size="1305" Hash="yWIvmDcQm0CvMMnYXT0ArlOoeWE9Dm5jduUBszM7xbk="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="823" Name="controls\AppBar\RemoveOverlay.html">
+
+<Block Size="395" Hash="U+o2wBhdOY0pet07e6D15td4MRHmWLIJqOeEBCW+gJU="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="7859" Name="controls\ImmersiveLayout.html">
+
+<Block Size="1802" Hash="pxQCMGl7UyINHr0Zj3GT6xTN1GYrJhAtpcB5FndLMjQ="/>
+
+</File>
+
+
+-<File LfhSize="66" Size="11510" Name="controls\LibraryFeaturedContent.html">
+
+<Block Size="1658" Hash="+s2j0YeLSPKuiW143iJ4IIxwe3A1EjgQbDaU8mjUZ1g="/>
+
+</File>
+
+
+-<File LfhSize="48" Size="5827" Name="controls\Link.html">
+
+<Block Size="1204" Hash="B+bnRls4y5LF7A+5xAdPgMlk8n34tXaY5CfMbYhvo+E="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="5981" Name="controls\ManageFoldersPage.html">
+
+<Block Size="1378" Hash="7napuTM4DD2wGYX2eIxnD0G75GHuKb1TuqrJRt64BMI="/>
+
+</File>
+
+
+-<File LfhSize="54" Size="743" Name="controls\MessageBox.html">
+
+<Block Size="386" Hash="NJjwUx8jkCAC9pWiz4Ue5/Il7CNoOoZAT9IIyWmaQ8A="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="6031" Name="controls\AppBar\BottomAppBar.html">
+
+<Block Size="1411" Hash="4+THlhkaJOO5YejA8LdfvTbSQoMsSk9/E2Mq0Ke/7f8="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="2691" Name="controls\WebHostDialog.html">
+
+<Block Size="856" Hash="f64Y86oJTqiXCAvgq9n3tZybnR42oXbnRoMzxlfbPI8="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="7611" Name="controls\Modifier.html">
+
+<Block Size="1469" Hash="IpQBsjY4cmNgSWb69SVX/0A0jmc4xfH3gPFl07WeG8s="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="4373" Name="controls\ModifierGalleryPage.html">
+
+<Block Size="940" Hash="zrnt977mS4mQZmRr9/nyQozhgZVl3PlL8L62VL/rjOc="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="1915" Name="controls\Music8Dashboard.html">
+
+<Block Size="630" Hash="p84bpie1fynDqBNfjogp3qse88oySDPmlXErNSH6KKM="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="18038" Name="controls\NowPlaying\HomeNowPlayingTile.html">
+
+<Block Size="2284" Hash="VyHWrHIcaLTqGe1XEQObtCv7YQ6Z1G0pIhpFz2dYa+I="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="2300" Name="controls\NowPlaying\MusicVisualization.html">
+
+<Block Size="820" Hash="DdJRuYm0yrKttCHLnn/F6CP+PY9EZeFkaiACM7ub1RA="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="1747" Name="controls\NowPlaying\NowPlayingMetadata.html">
+
+<Block Size="680" Hash="czEV6YvD/LQmeA+HarFTB08atcsBcJKqoguEz3yrI8w="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="7125" Name="controls\NowPlaying\NowPlayingOverlays.html">
+
+<Block Size="1442" Hash="JMStOIUb/PZ3fqcKtYN8LSTXmRZ4Hv50EmAerj9SXl4="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="9004" Name="controls\NowPlaying\NowPlayingPlaylist.html">
+
+<Block Size="1606" Hash="zUuPo+8hErDqpg0g721uBMGKn0+iz+FxSJ6zHlNrHR4="/>
+
+</File>
+
+
+-<File LfhSize="82" Size="6590" Name="controls\NowPlaying\NowPlayingTransportControls.html">
+
+<Block Size="1186" Hash="1qZ+1fpE4iaGekFod8eRyhgxjgky7fXR3s4jJi6qrv4="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="6563" Name="controls\NowPlaying\SnappedNowPlaying.html">
+
+<Block Size="1503" Hash="OoCklFH232JOvBzlhBIQn/lZcmBJxasotUThNKNOd04="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="811" Name="controls\NowPlaying\SnappedNowPlayingMetadata.html">
+
+<Block Size="391" Hash="FlEVMwFOG51YvO4l8Pqwp1fyMJgiXoTJFuvvJECkjD8="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="1447" Name="controls\Overlay.html">
+
+<Block Size="574" Hash="kZ8RHTiywLvp0DpDYaUoVzABD1gxPkkLTNdgSkF/IEU="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="4092" Name="controls\PivotControls.html">
+
+<Block Size="831" Hash="3uNJpnWvi1l9csqFDCTozQ/b6plachn49BE1S2Y2SxM="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="1556" Name="controls\PopOver.html">
+
+<Block Size="567" Hash="kGEWOyVsMYu2ZHf+82EHlhqHMcEXnO9ucCYgAJuznfA="/>
+
+</File>
+
+
+-<File LfhSize="52" Size="986" Name="controls\ShowMore.html">
+
+<Block Size="535" Hash="rVrlQ4751J17EPfh1/2xEMFVkiBJePziLQCA2mBl/Zk="/>
+
+</File>
+
+
+-<File LfhSize="57" Size="1934" Name="controls\SignInControl.html">
+
+<Block Size="608" Hash="v0q9rP5wanj6wrtja+B2mLfmZlo7kNZ882t96gLOHto="/>
+
+</File>
+
+
+-<File LfhSize="61" Size="1998" Name="controls\StarRatingControl.html">
+
+<Block Size="729" Hash="XPjU4n6Wue5vaZLw1W4ZR+QgzRJ1V+QOuZ8XiPW3uLQ="/>
+
+</File>
+
+
+-<File LfhSize="59" Size="2872" Name="controls\thumbnailButton.html">
+
+<Block Size="726" Hash="+XjqB9D8YJNQDk9ZRb0qZZXg4bHy8Sw7L+oZG+BZqho="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="1475" Name="controls\ToggleModifier.html">
+
+<Block Size="571" Hash="K36CZ8j+ctohz1K/ejwPmXsc9y/dEI8ii1M2eugvoE8="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="4884" Name="controls\TransportControls\SeekBar.html">
+
+<Block Size="1035" Hash="BwNVY3H9XDCRXnxnWLXGuiFPDP2pMXf68Ulq/Sv0Hrk="/>
+
+</File>
+
+
+-<File LfhSize="75" Size="1012" Name="controls\TransportControls\TimelineEvent.html">
+
+<Block Size="477" Hash="r3Tf4c8gS80Dqx1sv/uGuOS5VmPMfhVn1kV1niZAD/g="/>
+
+</File>
+
+
+-<File LfhSize="72" Size="935" Name="controls\TransportControls\VideoScrub.html">
+
+<Block Size="414" Hash="PynQOwd25UPxggVg+aU8Wl5Yjt4+1bb8kJPX9Wk7dF4="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="1498" Name="controls\TransportControls\VolumeBar.html">
+
+<Block Size="663" Hash="Phlhil8Gtf7zHJHW6AILOQmgQMVSmQPjLOtFZE3Gyb8="/>
+
+</File>
+
+
+-<File LfhSize="62" Size="6964" Name="controls\UserFeedbackDialog.html">
+
+<Block Size="1573" Hash="V8MJ9lWdJFXq1aYslkL3eff1egXlfu29KpETqJSAzEI="/>
+
+</File>
+
+
+-<File LfhSize="71" Size="2683" Name="controls\Video\ChooseDownloadQuality.html">
+
+<Block Size="719" Hash="iTwmg5bGnW1s/A1E2s9ANCYlmCum2tpuTKAqG1v2p2o="/>
+
+</File>
+
+
+-<File LfhSize="69" Size="2793" Name="controls\Video\RentalOptionsDialog.html">
+
+<Block Size="751" Hash="Z4zPTXTo0Brho2BQgoP0xb/HrsWUmdQl0xqPqEPVtoE="/>
+
+</File>
+
+
+-<File LfhSize="64" Size="1991" Name="controls\Video\SeasonModifier.html">
+
+<Block Size="659" Hash="gS7K5HORdzKliReQ0vWXB/eo0eIM2toJ/+XmQptoK68="/>
+
+</File>
+
+
+-<File LfhSize="67" Size="5297" Name="controls\Video\VideoDownloadItem.html">
+
+<Block Size="1188" Hash="tMEVEi4ZIyEbxPWI7bqlQ/VrZ0ZMtuXoRTIFk3w7I5I="/>
+
+</File>
+
+
+-<File LfhSize="70" Size="3440" Name="controls\Video\VideoDownloadManager.html">
+
+<Block Size="1067" Hash="do+bFILsAyb5kFvSwOUeRmZQGFCa1i807jxjBcU6rHw="/>
+
+</File>
+
+
+-<File LfhSize="73" Size="4408" Name="controls\Video\VideoNowPlayingOverlays.html">
+
+<Block Size="1001" Hash="cGnrrXt+fQc00lzJ0rDdiXcPA5eWWeNH8Ga3Wr3lDnE="/>
+
+</File>
+
+
+-<File LfhSize="63" Size="871" Name="controls\Video\WatchProgress.html">
+
+<Block Size="422" Hash="SS0uZ4m/srF4qUatYJkNAy3CUe/ZlSq6ya1NcdZOMIk="/>
+
+</File>
+
+
+-<File LfhSize="77" Size="1538" Name="controls\Video_Win\AudioTrackPickerControl.html">
+
+<Block Size="537" Hash="wdvgj1FTDGUyX31ZH4wtPggmKs9pmcpom6dF20RJdQY="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="1582" Name="controls\Video_Win\ClosedCaptionPickerControl.html">
+
+<Block Size="542" Hash="UpbG0FUG2ylNlU3bYWY0EDJemHwlgfiYWB22G2vAAKE="/>
+
+</File>
+
+
+-<File LfhSize="68" Size="1072" Name="controls\Video_Win\LanguagePicker.html">
+
+<Block Size="508" Hash="HJ0yvQLuzXJN/32+7JuHvjQtmSeQtKzNg7cKFIO7pzM="/>
+
+</File>
+
+
+-<File LfhSize="80" Size="5466" Name="controls\Video_Win\VideoWinNowPlayingOverlays.html">
+
+<Block Size="1223" Hash="OVQz45Y4nZkHZBrGcNTE0cdc3RLfO9P59G5XHjBwthc="/>
+
+</File>
+
+
+-<File LfhSize="51" Size="1689" Name="controls\WebHost.html">
+
+<Block Size="668" Hash="c8+Y47+UEedfeS2kW9AR9pIWw1kzTIz8x5mt/O/qxdQ="/>
+
+</File>
+
+
+-<File LfhSize="58" Size="969" Name="controls\MessageLinkBox.html">
+
+<Block Size="463" Hash="FEj3IqOV69TssMIK/vPf10E+Mk9cNO9quRPJKJAvEsk="/>
+
+</File>
+
+
+-<File LfhSize="43" Size="521288" Name="resources.pri">
+
+<Block Size="22146" Hash="bXamkcr9OzBEFEXMrMm8FYXARXUX5vCXqEsqYY+u8oQ="/>
+
+<Block Size="6963" Hash="crMLOeXppKWGrA8tD0nm18BrjKFJ+iT9GuFP3hozPdc="/>
+
+<Block Size="16504" Hash="TEnA/rfR+k9ZZ8jQX58IvWZpOkFsO53vp96rk/6+jCs="/>
+
+<Block Size="17906" Hash="HyR7Hq9DuZvzlr1VO413S91KXB9vVieKnHZwp4GeflA="/>
+
+<Block Size="11068" Hash="x3J/9QsaE0p/8WTUvxgRqIXr+TIVtCUWllOcQil0Heo="/>
+
+<Block Size="15360" Hash="q4ytqPJWBfMlrOwGgnApW94d8HRrHFWqYWwEOZNGc7w="/>
+
+<Block Size="12977" Hash="NPx8YAlS/3agaFKBUWDZ8qdn5IV/1Ri5I8klJ5YaVqE="/>
+
+<Block Size="11864" Hash="L5ZEN1X5zIf8cb67hsG9KzTBRilbykewo+FyHxh5OCE="/>
+
+</File>
+
+
+-<File LfhSize="46" Size="20108" Name="AppxManifest.xml">
+
+<Block Size="3064" Hash="0wV6Bik9LN3DraXyYweV+x0cp7I6JnOpyLNIzm280LQ="/>
+
+</File>
+
+</BlockMap>
